@@ -222,7 +222,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T19:38:05Z",
+            "last_commit": "2026-08-15T17:09:39Z",
             "owner": "Baekalfen",
             "repo": "PyBoy",
             "stars": 5185
@@ -337,7 +337,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-01T17:14:11Z",
+            "last_commit": "2026-08-15T18:27:06Z",
             "owner": "gbdev",
             "repo": "rgbds",
             "stars": 1631
@@ -351,7 +351,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T20:40:10Z",
+            "last_commit": "2026-08-14T23:01:18Z",
             "owner": "vhelin",
             "repo": "wla-dx",
             "stars": 606
@@ -388,7 +388,7 @@
             "last_commit": "2025-04-10T11:29:21Z",
             "owner": "wiz-lang",
             "repo": "wiz",
-            "stars": 436
+            "stars": 437
           }
         },
         {
@@ -492,7 +492,7 @@
             "last_commit": "2026-08-06T06:39:06Z",
             "owner": "mgba-emu",
             "repo": "mgba",
-            "stars": 7278
+            "stars": 7280
           }
         },
         {
@@ -966,7 +966,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-04-15T20:25:51Z",
+            "last_commit": "2026-08-15T16:23:41Z",
             "owner": "SuperDisk",
             "repo": "hUGETracker",
             "stars": 364
@@ -1472,7 +1472,7 @@
             "last_commit": "2015-02-11T11:22:50Z",
             "owner": "Sanqui",
             "repo": "2048-gb",
-            "stars": 118
+            "stars": 119
           }
         },
         {
@@ -2378,7 +2378,7 @@
             "last_commit": "2026-08-11T03:15:51Z",
             "owner": "Stewmath",
             "repo": "oracles-disasm",
-            "stars": 208
+            "stars": 209
           }
         },
         {
@@ -2392,7 +2392,7 @@
             "last_commit": "2026-08-01T17:41:12Z",
             "owner": "pret",
             "repo": "pokepinball",
-            "stars": 196
+            "stars": 197
           }
         },
         {
@@ -2560,7 +2560,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T18:47:34Z",
+            "last_commit": "2026-08-15T16:16:14Z",
             "owner": "HerrZatacke",
             "repo": "gb-printer-web",
             "stars": 75
@@ -2924,7 +2924,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:14:23.347Z",
+    "last_updated": "2026-08-15T19:54:45.807Z",
     "original_repository": "gbdev/awesome-gbdev",
     "original_repository_sha": "cac923ae87a0faa1afe8f2e296bd4722d59205c9",
     "enhanced_repository": "enhansome/enhansome-gbdev",
