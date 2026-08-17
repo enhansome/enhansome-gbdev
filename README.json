@@ -225,7 +225,7 @@
             "last_commit": "2026-08-15T17:09:39Z",
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5185
+            "stars": 5186
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-14T23:01:18Z",
             "owner": "vhelin",
             "repo": "wla-dx",
-            "stars": 606
+            "stars": 605
           }
         },
         {
@@ -492,7 +492,7 @@
             "last_commit": "2026-08-16T07:22:07Z",
             "owner": "mgba-emu",
             "repo": "mgba",
-            "stars": 7287
+            "stars": 7292
           }
         },
         {
@@ -506,7 +506,7 @@
             "last_commit": "2026-07-10T15:37:20Z",
             "owner": "LIJI32",
             "repo": "SameBoy",
-            "stars": 2168
+            "stars": 2170
           }
         },
         {
@@ -576,7 +576,7 @@
             "last_commit": "2021-07-06T22:58:50Z",
             "owner": "gb-archive",
             "repo": "gambatte",
-            "stars": 7
+            "stars": 8
           }
         }
       ],
@@ -969,7 +969,7 @@
             "last_commit": "2026-08-15T16:23:41Z",
             "owner": "SuperDisk",
             "repo": "hUGETracker",
-            "stars": 365
+            "stars": 366
           }
         },
         {
@@ -1814,7 +1814,7 @@
             "last_commit": "2023-01-29T08:39:26Z",
             "owner": "SimonLarsen",
             "repo": "tobutobugirl-dx",
-            "stars": 96
+            "stars": 97
           }
         },
         {
@@ -2294,7 +2294,7 @@
             "last_commit": "2026-08-13T21:57:49Z",
             "owner": "pret",
             "repo": "pokecrystal",
-            "stars": 2491
+            "stars": 2492
           }
         },
         {
@@ -2308,7 +2308,7 @@
             "last_commit": "2026-08-14T16:02:51Z",
             "owner": "zladx",
             "repo": "LADX-Disassembly",
-            "stars": 896
+            "stars": 895
           }
         },
         {
@@ -2560,7 +2560,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T13:00:05Z",
+            "last_commit": "2026-08-17T00:54:06Z",
             "owner": "HerrZatacke",
             "repo": "gb-printer-web",
             "stars": 75
@@ -2924,7 +2924,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:53:35.368Z",
+    "last_updated": "2026-08-17T19:58:52.388Z",
     "original_repository": "gbdev/awesome-gbdev",
     "original_repository_sha": "cac923ae87a0faa1afe8f2e296bd4722d59205c9",
     "enhanced_repository": "enhansome/enhansome-gbdev",
