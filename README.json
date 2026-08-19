@@ -259,7 +259,7 @@
             "last_commit": "2024-10-06T07:04:03Z",
             "owner": "robert",
             "repo": "gameboy-doctor",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -361,7 +361,7 @@
                 "archived": false,
                 "id": 304743,
                 "language": "C++",
-                "last_commit": "2026-08-15T18:27:06Z",
+                "last_commit": "2026-08-19T13:21:12Z",
                 "owner": "gbdev",
                 "repo": "rgbds",
                 "stars": 1631
@@ -535,7 +535,7 @@
                 "last_commit": "2026-08-16T07:22:07Z",
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7296
+                "stars": 7297
               }
             },
             {
@@ -2466,7 +2466,7 @@
                 "last_commit": "2026-08-13T21:56:37Z",
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4883
+                "stars": 4886
               }
             },
             {
@@ -2481,7 +2481,7 @@
                 "last_commit": "2026-08-13T21:57:49Z",
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2493
+                "stars": 2494
               }
             },
             {
@@ -3135,7 +3135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:33:12.130Z",
+    "last_updated": "2026-08-19T19:58:31.163Z",
     "original_repository": "gbdev/awesome-gbdev",
     "original_repository_id": 52347647,
     "original_repository_sha": "cac923ae87a0faa1afe8f2e296bd4722d59205c9",
