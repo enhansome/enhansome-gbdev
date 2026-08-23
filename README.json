@@ -129,7 +129,7 @@
                 "last_commit": "2026-05-13T13:41:56Z",
                 "owner": "mofosyne",
                 "repo": "arduino-gameboy-printer-emulator",
-                "stars": 364
+                "stars": 365
               }
             },
             {
@@ -241,7 +241,7 @@
             "archived": false,
             "id": 36501634,
             "language": "Python",
-            "last_commit": "2026-08-22T14:05:56Z",
+            "last_commit": "2026-08-23T17:29:21Z",
             "owner": "Baekalfen",
             "repo": "PyBoy",
             "stars": 5189
@@ -361,7 +361,7 @@
                 "archived": false,
                 "id": 304743,
                 "language": "C++",
-                "last_commit": "2026-08-19T13:21:12Z",
+                "last_commit": "2026-08-23T00:15:37Z",
                 "owner": "gbdev",
                 "repo": "rgbds",
                 "stars": 1636
@@ -532,10 +532,10 @@
                 "archived": false,
                 "id": 27788471,
                 "language": "C",
-                "last_commit": "2026-08-20T05:59:31Z",
+                "last_commit": "2026-08-23T02:35:16Z",
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7305
+                "stars": 7308
               }
             },
             {
@@ -550,7 +550,7 @@
                 "last_commit": "2026-07-10T15:37:20Z",
                 "owner": "LIJI32",
                 "repo": "SameBoy",
-                "stars": 2175
+                "stars": 2178
               }
             },
             {
@@ -776,7 +776,7 @@
                     "last_commit": "2026-05-02T13:20:12Z",
                     "owner": "Rangi42",
                     "repo": "tilemap-studio",
-                    "stars": 528
+                    "stars": 529
                   }
                 },
                 {
@@ -2496,7 +2496,7 @@
                 "last_commit": "2026-08-20T07:49:35Z",
                 "owner": "zladx",
                 "repo": "LADX-Disassembly",
-                "stars": 895
+                "stars": 896
               }
             },
             {
@@ -2526,7 +2526,7 @@
                 "last_commit": "2026-08-13T21:57:51Z",
                 "owner": "pret",
                 "repo": "pokegold",
-                "stars": 709
+                "stars": 710
               }
             },
             {
@@ -2674,7 +2674,7 @@
                 "last_commit": "2026-05-13T13:41:56Z",
                 "owner": "mofosyne",
                 "repo": "arduino-gameboy-printer-emulator",
-                "stars": 364
+                "stars": 365
               }
             },
             {
@@ -2768,7 +2768,7 @@
                 "archived": false,
                 "id": 262184624,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T03:02:39Z",
+                "last_commit": "2026-08-23T16:10:58Z",
                 "owner": "HerrZatacke",
                 "repo": "gb-printer-web",
                 "stars": 75
@@ -2842,7 +2842,7 @@
             "last_commit": "2025-10-19T19:04:01Z",
             "owner": "jkotlinski",
             "repo": "lsdpatch",
-            "stars": 215
+            "stars": 216
           }
         },
         {
@@ -3135,7 +3135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:55:28.559Z",
+    "last_updated": "2026-08-23T19:54:59.901Z",
     "original_repository": "gbdev/awesome-gbdev",
     "original_repository_id": 52347647,
     "original_repository_sha": "cac923ae87a0faa1afe8f2e296bd4722d59205c9",
