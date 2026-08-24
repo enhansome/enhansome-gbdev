@@ -296,7 +296,7 @@
             "last_commit": "2024-10-06T07:04:03Z",
             "owner": "robert",
             "repo": "gameboy-doctor",
-            "stars": 283
+            "stars": 284
           }
         },
         {
@@ -466,7 +466,7 @@
                 "archived": false,
                 "id": 253045857,
                 "language": "C",
-                "last_commit": "2026-08-24T03:05:10Z",
+                "last_commit": "2026-08-24T18:11:13Z",
                 "owner": "gbdk-2020",
                 "repo": "gbdk-2020",
                 "stars": 2283
@@ -498,7 +498,7 @@
                     "archived": false,
                     "id": 855346786,
                     "language": "Rust",
-                    "last_commit": "2026-08-21T09:15:48Z",
+                    "last_commit": "2026-08-24T18:40:15Z",
                     "owner": "zlfn",
                     "repo": "rust-gb",
                     "stars": 277
@@ -603,7 +603,7 @@
                 "last_commit": "2026-08-23T02:35:16Z",
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7309
+                "stars": 7313
               }
             },
             {
@@ -618,7 +618,7 @@
                 "last_commit": "2026-07-10T15:37:20Z",
                 "owner": "LIJI32",
                 "repo": "SameBoy",
-                "stars": 2178
+                "stars": 2177
               }
             },
             {
@@ -663,7 +663,7 @@
                 "last_commit": "2026-07-04T07:25:59Z",
                 "owner": "binji",
                 "repo": "binjgb",
-                "stars": 604
+                "stars": 605
               }
             },
             {
@@ -2578,7 +2578,7 @@
                 "last_commit": "2026-08-13T21:56:37Z",
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4891
+                "stars": 4890
               }
             },
             {
@@ -3291,7 +3291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:55:46.685Z",
+    "last_updated": "2026-08-24T20:02:10.149Z",
     "original_repository": "gbdev/awesome-gbdev",
     "original_repository_id": 52347647,
     "original_repository_sha": "cac923ae87a0faa1afe8f2e296bd4722d59205c9",
