@@ -155,6 +155,21 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "AntonioND's docs",
+              "description": "Corrected schematics and infos on cartridge header data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17496285,
+                "language": "C",
+                "last_commit": "2026-01-25T02:02:07Z",
+                "owner": "AntonioND",
+                "repo": "giibiiadvance",
+                "stars": 214
+              }
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -220,6 +235,28 @@
               "description": null,
               "node_type": "group",
               "title": "Custom cartridges"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GBSOUND.txt",
+                  "description": "A document detailing the Game Boy sound engine.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 7246636,
+                    "language": "C",
+                    "last_commit": "2021-07-12T22:19:29Z",
+                    "owner": "bwhitman",
+                    "repo": "pushpin",
+                    "stars": 57
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Misc"
             }
           ],
           "description": null,
@@ -241,7 +278,7 @@
             "archived": false,
             "id": 36501634,
             "language": "Python",
-            "last_commit": "2026-08-23T17:29:21Z",
+            "last_commit": "2026-08-24T07:49:22Z",
             "owner": "Baekalfen",
             "repo": "PyBoy",
             "stars": 5189
@@ -405,6 +442,37 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "GBDK",
+              "description": "Maintained and modernized GBDK (Game Boy Development Kit) powered by an updated version of the SDCC toolchain. Provides a C compiler, assembler, linker and a set of libraries.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Examples",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 68447443,
+                    "language": "C",
+                    "last_commit": "2025-09-30T06:12:30Z",
+                    "owner": "mrombout",
+                    "repo": "gbdk_playground",
+                    "stars": 205
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 253045857,
+                "language": "C",
+                "last_commit": "2026-08-24T03:05:10Z",
+                "owner": "gbdk-2020",
+                "repo": "gbdk-2020",
+                "stars": 2283
+              }
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -535,7 +603,7 @@
                 "last_commit": "2026-08-23T02:35:16Z",
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7308
+                "stars": 7309
               }
             },
             {
@@ -635,6 +703,28 @@
         },
         {
           "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ZGB",
+                  "description": "A little engine for creating games for the original Game Boy (expands gbdk, more info here).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 61985180,
+                    "language": "C++",
+                    "last_commit": "2024-08-01T05:49:24Z",
+                    "owner": "Zal0",
+                    "repo": "ZGB",
+                    "stars": 789
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Engines"
+            },
             {
               "children": [
                 {
@@ -1042,7 +1132,7 @@
                     "archived": false,
                     "id": 137700138,
                     "language": "Pascal",
-                    "last_commit": "2026-08-22T17:24:45Z",
+                    "last_commit": "2026-08-24T09:43:45Z",
                     "owner": "SuperDisk",
                     "repo": "hUGETracker",
                     "stars": 366
@@ -1252,6 +1342,28 @@
               "description": "Fragments of code, effects, proof of concepts and generally non complete games.",
               "node_type": "group",
               "title": "Sources"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Video Timing",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3158378,
+                    "language": "VHDL",
+                    "last_commit": "2013-04-25T14:38:20Z",
+                    "owner": "jdeblese",
+                    "repo": "gbcpu",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Timings"
             },
             {
               "children": [
@@ -2481,7 +2593,7 @@
                 "last_commit": "2026-08-13T21:57:49Z",
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2495
+                "stars": 2494
               }
             },
             {
@@ -2493,10 +2605,10 @@
                 "archived": false,
                 "id": 40512314,
                 "language": "Assembly",
-                "last_commit": "2026-08-20T07:49:35Z",
+                "last_commit": "2026-08-24T08:05:20Z",
                 "owner": "zladx",
                 "repo": "LADX-Disassembly",
-                "stars": 896
+                "stars": 895
               }
             },
             {
@@ -2741,6 +2853,28 @@
           "description": "Game Boy Printer emulation (e.g. to retrieve images from the camera):",
           "node_type": "group",
           "title": "Retrieving images"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "game-boy-camera-frame-replacer",
+              "description": "Manipulate the ROM of a camera to include custom frames",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 291731172,
+                "language": "Python",
+                "last_commit": "2024-04-28T07:45:33Z",
+                "owner": "cristofercruz",
+                "repo": "gb-camera-frames",
+                "stars": 42
+              }
+            }
+          ],
+          "description": "Methods to improve and/or manipulate the camera's quality and behavior:",
+          "node_type": "group",
+          "title": "Changing the camera's behavior"
         },
         {
           "children": [
@@ -3129,13 +3263,35 @@
             "repo": "sm83-render",
             "stars": 1
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The Game Boy Archive - Salvage",
+              "description": "Historical archive of software, old articles, FAQs and various documents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113875058,
+                "language": "HTML",
+                "last_commit": "2025-04-22T08:44:05Z",
+                "owner": "gb-archive",
+                "repo": "salvage",
+                "stars": 42
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Directories"
         }
       ],
       "title": "Related projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:54:59.901Z",
+    "last_updated": "2026-08-24T13:55:46.685Z",
     "original_repository": "gbdev/awesome-gbdev",
     "original_repository_id": 52347647,
     "original_repository_sha": "cac923ae87a0faa1afe8f2e296bd4722d59205c9",
