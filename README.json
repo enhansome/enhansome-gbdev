@@ -278,10 +278,10 @@
             "archived": false,
             "id": 36501634,
             "language": "Python",
-            "last_commit": "2026-08-24T07:49:22Z",
+            "last_commit": "2026-08-25T15:13:26Z",
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5190
+            "stars": 5191
           }
         },
         {
@@ -469,7 +469,7 @@
                 "last_commit": "2026-08-24T18:11:13Z",
                 "owner": "gbdk-2020",
                 "repo": "gbdk-2020",
-                "stars": 2283
+                "stars": 2284
               }
             },
             {
@@ -603,7 +603,7 @@
                 "last_commit": "2026-08-23T02:35:16Z",
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7315
+                "stars": 7314
               }
             },
             {
@@ -931,21 +931,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "bmp2cgb",
-                  "description": "Graphics converter for Game Boy Color development providing real time palette adjustments.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "id": 89846095,
-                    "language": "C",
-                    "last_commit": "2023-10-11T19:46:21Z",
-                    "owner": "gitendo",
-                    "repo": "bmp2cgb",
-                    "stars": 28
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "Tilemap Helper",
                   "description": "GIMP image editor plug-in for optimizing tile maps and tile sets.",
                   "children": [],
@@ -956,6 +941,21 @@
                     "last_commit": "2020-11-11T16:35:02Z",
                     "owner": "bbbbbr",
                     "repo": "gimp-tilemap-helper",
+                    "stars": 29
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "bmp2cgb",
+                  "description": "Graphics converter for Game Boy Color development providing real time palette adjustments.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 89846095,
+                    "language": "C",
+                    "last_commit": "2023-10-11T19:46:21Z",
+                    "owner": "gitendo",
+                    "repo": "bmp2cgb",
                     "stars": 28
                   }
                 },
@@ -1132,7 +1132,7 @@
                     "archived": false,
                     "id": 137700138,
                     "language": "Pascal",
-                    "last_commit": "2026-08-24T09:43:45Z",
+                    "last_commit": "2026-08-25T12:58:07Z",
                     "owner": "SuperDisk",
                     "repo": "hUGETracker",
                     "stars": 366
@@ -1533,7 +1533,7 @@
                     "archived": false,
                     "id": 15114057,
                     "language": "Lua",
-                    "last_commit": "2026-07-17T16:58:25Z",
+                    "last_commit": "2026-08-25T06:38:24Z",
                     "owner": "Leandros",
                     "repo": "dotfiles",
                     "stars": 11
@@ -2605,7 +2605,7 @@
                 "archived": false,
                 "id": 40512314,
                 "language": "Assembly",
-                "last_commit": "2026-08-24T08:05:20Z",
+                "last_commit": "2026-08-25T06:01:55Z",
                 "owner": "zladx",
                 "repo": "LADX-Disassembly",
                 "stars": 895
@@ -3291,7 +3291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:49:25.800Z",
+    "last_updated": "2026-08-25T20:00:49.927Z",
     "original_repository": "gbdev/awesome-gbdev",
     "original_repository_id": 52347647,
     "original_repository_sha": "cac923ae87a0faa1afe8f2e296bd4722d59205c9",
