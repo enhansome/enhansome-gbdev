@@ -281,7 +281,7 @@
             "last_commit": "2026-08-25T15:13:26Z",
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5191
+            "stars": 5193
           }
         },
         {
@@ -398,7 +398,7 @@
                 "archived": false,
                 "id": 304743,
                 "language": "C++",
-                "last_commit": "2026-08-23T00:15:37Z",
+                "last_commit": "2026-08-25T20:13:37Z",
                 "owner": "gbdev",
                 "repo": "rgbds",
                 "stars": 1638
@@ -416,7 +416,7 @@
                 "last_commit": "2026-08-17T22:05:27Z",
                 "owner": "vhelin",
                 "repo": "wla-dx",
-                "stars": 606
+                "stars": 607
               }
             },
             {
@@ -469,7 +469,7 @@
                 "last_commit": "2026-08-24T18:11:13Z",
                 "owner": "gbdk-2020",
                 "repo": "gbdk-2020",
-                "stars": 2284
+                "stars": 2285
               }
             },
             {
@@ -498,7 +498,7 @@
                     "archived": false,
                     "id": 855346786,
                     "language": "Rust",
-                    "last_commit": "2026-08-24T18:40:15Z",
+                    "last_commit": "2026-08-26T10:08:02Z",
                     "owner": "zlfn",
                     "repo": "rust-gb",
                     "stars": 277
@@ -603,7 +603,7 @@
                 "last_commit": "2026-08-23T02:35:16Z",
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7314
+                "stars": 7319
               }
             },
             {
@@ -2578,7 +2578,7 @@
                 "last_commit": "2026-08-13T21:56:37Z",
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4890
+                "stars": 4892
               }
             },
             {
@@ -2605,7 +2605,7 @@
                 "archived": false,
                 "id": 40512314,
                 "language": "Assembly",
-                "last_commit": "2026-08-25T06:01:55Z",
+                "last_commit": "2026-08-26T07:20:47Z",
                 "owner": "zladx",
                 "repo": "LADX-Disassembly",
                 "stars": 895
@@ -2902,7 +2902,7 @@
                 "archived": false,
                 "id": 262184624,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T16:10:58Z",
+                "last_commit": "2026-08-26T01:56:03Z",
                 "owner": "HerrZatacke",
                 "repo": "gb-printer-web",
                 "stars": 75
@@ -3291,7 +3291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:00:49.927Z",
+    "last_updated": "2026-08-26T22:30:08.807Z",
     "original_repository": "gbdev/awesome-gbdev",
     "original_repository_id": 52347647,
     "original_repository_sha": "cac923ae87a0faa1afe8f2e296bd4722d59205c9",
