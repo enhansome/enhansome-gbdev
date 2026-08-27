@@ -278,7 +278,7 @@
             "archived": false,
             "id": 36501634,
             "language": "Python",
-            "last_commit": "2026-08-25T15:13:26Z",
+            "last_commit": "2026-08-27T09:24:27Z",
             "owner": "Baekalfen",
             "repo": "PyBoy",
             "stars": 5193
@@ -600,10 +600,10 @@
                 "archived": false,
                 "id": 27788471,
                 "language": "C",
-                "last_commit": "2026-08-23T02:35:16Z",
+                "last_commit": "2026-08-27T06:25:15Z",
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7319
+                "stars": 7321
               }
             },
             {
@@ -881,7 +881,7 @@
                     "last_commit": "2026-07-03T20:53:47Z",
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
-                    "stars": 189
+                    "stars": 190
                   }
                 },
                 {
@@ -2578,7 +2578,7 @@
                 "last_commit": "2026-08-13T21:56:37Z",
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4892
+                "stars": 4893
               }
             },
             {
@@ -2605,10 +2605,10 @@
                 "archived": false,
                 "id": 40512314,
                 "language": "Assembly",
-                "last_commit": "2026-08-26T07:20:47Z",
+                "last_commit": "2026-08-27T08:00:37Z",
                 "owner": "zladx",
                 "repo": "LADX-Disassembly",
-                "stars": 895
+                "stars": 896
               }
             },
             {
@@ -3291,9 +3291,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:30:08.807Z",
-    "original_repository": "gbdev/awesome-gbdev",
-    "original_repository_id": 52347647,
+    "last_updated": "2026-08-27T11:43:22.350Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 52347647,
+      "language": null,
+      "last_commit": "2026-07-22T19:03:27Z",
+      "owner": "gbdev",
+      "repo": "awesome-gbdev",
+      "stars": 4491
+    },
     "original_repository_sha": "cac923ae87a0faa1afe8f2e296bd4722d59205c9",
     "enhanced_repository": "enhansome/enhansome-gbdev",
     "enhanced_repository_description": null,
