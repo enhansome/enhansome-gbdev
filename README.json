@@ -16,7 +16,8 @@
             "owner": "AntonioND",
             "repo": "giibiiadvance",
             "stars": 214
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "kitsuneh",
             "repo": "SVGameBoy",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "children": [
@@ -48,7 +50,8 @@
                 "owner": "Gekkio",
                 "repo": "gb-hardware",
                 "stars": 375
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "applefreak",
                 "repo": "esp8266-gameboy-printer",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -77,8 +81,9 @@
                 "last_commit": "2026-08-21T09:13:21Z",
                 "owner": "msinger",
                 "repo": "dmg-schematics",
-                "stars": 46
-              }
+                "stars": 47
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "applefreak",
                 "repo": "esp8266-gameboy-dev-board",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             }
           ],
           "description": null,
@@ -115,7 +121,8 @@
                 "owner": "shonumi",
                 "repo": "gbe-plus",
                 "stars": 599
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "mofosyne",
                 "repo": "arduino-gameboy-printer-emulator",
                 "stars": 365
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "AntonioND",
                 "repo": "gbcam-rev-engineer",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             }
           ],
           "description": null,
@@ -167,7 +176,8 @@
                 "owner": "AntonioND",
                 "repo": "giibiiadvance",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "children": [
@@ -184,7 +194,8 @@
                     "owner": "dwaq",
                     "repo": "Homebrew-Gameboy-Cartridge",
                     "stars": 138
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -199,7 +210,8 @@
                     "owner": "zephray",
                     "repo": "NekoCart-GB",
                     "stars": 138
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -214,7 +226,8 @@
                     "owner": "Xyl2k",
                     "repo": "Gameboy-Color-Cartridge",
                     "stars": 75
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -229,7 +242,8 @@
                     "owner": "insidegadgets",
                     "repo": "Gameboy-MBC5-MBC1-Hybrid",
                     "stars": 54
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 }
               ],
               "description": null,
@@ -251,7 +265,8 @@
                     "owner": "bwhitman",
                     "repo": "pushpin",
                     "stars": 57
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 }
               ],
               "description": null,
@@ -278,11 +293,12 @@
             "archived": false,
             "id": 36501634,
             "language": "Python",
-            "last_commit": "2026-08-27T20:39:17Z",
+            "last_commit": "2026-08-28T20:00:55Z",
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5193
-          }
+            "stars": 5192
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -297,7 +313,8 @@
             "owner": "robert",
             "repo": "gameboy-doctor",
             "stars": 284
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "children": [
@@ -313,8 +330,9 @@
                 "last_commit": "2026-07-09T04:09:09Z",
                 "owner": "pinobatch",
                 "repo": "240p-test-mini",
-                "stars": 290
-              }
+                "stars": 291
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -329,7 +347,8 @@
                 "owner": "mattcurrie",
                 "repo": "dmg-acid2",
                 "stars": 239
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -344,7 +363,8 @@
                 "owner": "mattcurrie",
                 "repo": "mealybug-tearoom-tests",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -359,7 +379,8 @@
                 "owner": "LIJI32",
                 "repo": "SameSuite",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -374,7 +395,8 @@
                 "owner": "aaaaaa123456789",
                 "repo": "rtc3test",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             }
           ],
           "description": null,
@@ -402,7 +424,8 @@
                 "owner": "gbdev",
                 "repo": "rgbds",
                 "stars": 1638
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -417,7 +440,8 @@
                 "owner": "vhelin",
                 "repo": "wla-dx",
                 "stars": 607
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -432,7 +456,8 @@
                 "owner": "asmotor",
                 "repo": "asmotor",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             }
           ],
           "description": null,
@@ -459,7 +484,8 @@
                     "owner": "mrombout",
                     "repo": "gbdk_playground",
                     "stars": 205
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 }
               ],
               "repo_info": {
@@ -469,8 +495,9 @@
                 "last_commit": "2026-08-24T18:11:13Z",
                 "owner": "gbdk-2020",
                 "repo": "gbdk-2020",
-                "stars": 2285
-              }
+                "stars": 2286
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "children": [
@@ -487,7 +514,8 @@
                     "owner": "wiz-lang",
                     "repo": "wiz",
                     "stars": 437
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -498,11 +526,12 @@
                     "archived": false,
                     "id": 855346786,
                     "language": "Rust",
-                    "last_commit": "2026-08-26T10:08:02Z",
+                    "last_commit": "2026-08-28T15:48:21Z",
                     "owner": "zlfn",
                     "repo": "rust-gb",
                     "stars": 277
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -517,7 +546,8 @@
                     "owner": "ams-hackers",
                     "repo": "gbforth",
                     "stars": 147
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -532,7 +562,8 @@
                     "owner": "BonsaiDen",
                     "repo": "gbasm",
                     "stars": 131
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -547,7 +578,8 @@
                     "owner": "ulrikdamm",
                     "repo": "Assembler",
                     "stars": 119
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -562,7 +594,8 @@
                     "owner": "Bevinsky",
                     "repo": "llvm-gbz80",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -577,7 +610,8 @@
                     "owner": "akatsuki105",
                     "repo": "gbdk-go",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 }
               ],
               "description": null,
@@ -603,8 +637,9 @@
                 "last_commit": "2026-08-27T06:25:15Z",
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7325
-              }
+                "stars": 7329
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -618,8 +653,9 @@
                 "last_commit": "2026-07-10T15:37:20Z",
                 "owner": "LIJI32",
                 "repo": "SameBoy",
-                "stars": 2179
-              }
+                "stars": 2180
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -633,8 +669,9 @@
                 "last_commit": "2025-02-23T03:36:26Z",
                 "owner": "aappleby",
                 "repo": "metroboy",
-                "stars": 1170
-              }
+                "stars": 1169
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -649,7 +686,8 @@
                 "owner": "Gekkio",
                 "repo": "mooneye-gb",
                 "stars": 970
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -664,7 +702,8 @@
                 "owner": "binji",
                 "repo": "binjgb",
                 "stars": 605
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -679,7 +718,8 @@
                 "owner": "shonumi",
                 "repo": "gbe-plus",
                 "stars": 599
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -694,7 +734,8 @@
                 "owner": "gb-archive",
                 "repo": "gambatte",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             }
           ],
           "description": "Complete list of open source emulators",
@@ -718,7 +759,8 @@
                     "owner": "Zal0",
                     "repo": "ZGB",
                     "stars": 789
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 }
               ],
               "description": null,
@@ -740,7 +782,8 @@
                     "owner": "mattcurrie",
                     "repo": "mgbdis",
                     "stars": 321
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -755,7 +798,8 @@
                     "owner": "devdri",
                     "repo": "awake",
                     "stars": 75
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -770,7 +814,8 @@
                     "owner": "bbbbbr",
                     "repo": "romusage",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -785,7 +830,8 @@
                     "owner": "evie-calico",
                     "repo": "evunit",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -800,7 +846,8 @@
                     "owner": "evie-calico",
                     "repo": "evscript",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -815,7 +862,8 @@
                     "owner": "ProGM",
                     "repo": "gbdk-lib-extension",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -830,7 +878,8 @@
                     "owner": "raphaklaus",
                     "repo": "gameboy-text-tools",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -845,7 +894,8 @@
                     "owner": "rondnelson99",
                     "repo": "opcode_count",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 }
               ],
               "description": null,
@@ -867,7 +917,8 @@
                     "owner": "Rangi42",
                     "repo": "tilemap-studio",
                     "stars": 529
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -882,7 +933,8 @@
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
                     "stars": 190
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -897,7 +949,8 @@
                     "owner": "chrisantonellis",
                     "repo": "gbtdg",
                     "stars": 91
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -912,7 +965,8 @@
                     "owner": "bbbbbr",
                     "repo": "gimp-tilemap-gb",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -927,7 +981,8 @@
                     "owner": "paul-arutyunov",
                     "repo": "vtGBte",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -942,7 +997,8 @@
                     "owner": "bbbbbr",
                     "repo": "gimp-tilemap-helper",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -957,7 +1013,8 @@
                     "owner": "gitendo",
                     "repo": "bmp2cgb",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -972,7 +1029,8 @@
                     "owner": "aaaaaa123456789",
                     "repo": "tpp1",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -987,7 +1045,8 @@
                     "owner": "LuckyLights",
                     "repo": "png2gb",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1002,7 +1061,8 @@
                     "owner": "bashaus",
                     "repo": "gbtiles",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1017,7 +1077,8 @@
                     "owner": "delwink",
                     "repo": "libstdgb",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1032,7 +1093,8 @@
                     "owner": "gb-archive",
                     "repo": "gb-convert",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 }
               ],
               "description": null,
@@ -1054,7 +1116,8 @@
                     "owner": "svendahlstrand",
                     "repo": "game-boy-lcd-sniffing",
                     "stars": 184
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1069,7 +1132,8 @@
                     "owner": "jkbenaim",
                     "repo": "gbcamextract",
                     "stars": 53
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1084,7 +1148,8 @@
                     "owner": "Palmr",
                     "repo": "cart-dumper",
                     "stars": 46
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1099,7 +1164,8 @@
                     "owner": "Sanqui",
                     "repo": "swapdump",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1114,7 +1180,8 @@
                     "owner": "JustinLloyd",
                     "repo": "Gameboy-LinkUp",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 }
               ],
               "description": null,
@@ -1136,7 +1203,8 @@
                     "owner": "SuperDisk",
                     "repo": "hUGETracker",
                     "stars": 366
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1151,7 +1219,8 @@
                     "owner": "AntonioND",
                     "repo": "gbt-player",
                     "stars": 304
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1166,7 +1235,8 @@
                     "owner": "SimonLarsen",
                     "repo": "mmlgb",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1181,7 +1251,8 @@
                     "owner": "coffeevalenbat",
                     "repo": "CBT-FX",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1196,7 +1267,8 @@
                     "owner": "bazz1tv",
                     "repo": "XPMCK",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1211,7 +1283,8 @@
                     "owner": "gbdev",
                     "repo": "GBSoundSystem",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1226,7 +1299,8 @@
                     "owner": "DevEd2",
                     "repo": "DevSoundX",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 }
               ],
               "description": null,
@@ -1259,7 +1333,8 @@
                 "owner": "ahrnbom",
                 "repo": "gbapfomgd",
                 "stars": 167
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1270,11 +1345,12 @@
                 "archived": false,
                 "id": 111381453,
                 "language": "Assembly",
-                "last_commit": "2026-08-11T22:56:54Z",
+                "last_commit": "2026-08-28T13:54:42Z",
                 "owner": "gbdev",
                 "repo": "hardware.inc",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1289,7 +1365,8 @@
                 "owner": "assemblydigest",
                 "repo": "gameboy",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1304,7 +1381,8 @@
                 "owner": "lancekindle",
                 "repo": "DMGreport",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "children": [
@@ -1321,7 +1399,8 @@
                     "owner": "gb-archive",
                     "repo": "DeadCScroll",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1336,7 +1415,8 @@
                     "owner": "EmmaEwert",
                     "repo": "gameboy",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 }
               ],
               "description": "Fragments of code, effects, proof of concepts and generally non complete games.",
@@ -1358,7 +1438,8 @@
                     "owner": "jdeblese",
                     "repo": "gbcpu",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 }
               ],
               "description": null,
@@ -1380,7 +1461,8 @@
                     "owner": "ahrnbom",
                     "repo": "gingerbread",
                     "stars": 139
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1395,7 +1477,8 @@
                     "owner": "ISSOtm",
                     "repo": "gb-boilerplate",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1410,7 +1493,8 @@
                     "owner": "ISSOtm",
                     "repo": "gb-starter-kit",
                     "stars": 65
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1425,7 +1509,8 @@
                     "owner": "ISSOtm",
                     "repo": "gb-vwf",
                     "stars": 57
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1440,7 +1525,8 @@
                     "owner": "nezticle",
                     "repo": "rgbds-template",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1455,7 +1541,8 @@
                     "owner": "yenatch",
                     "repo": "bootstrap.gb",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1470,7 +1557,8 @@
                     "owner": "1fairyfox",
                     "repo": "GameboyBoilerplateProj",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1485,7 +1573,8 @@
                     "owner": "gb-archive",
                     "repo": "gb-template",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 }
               ],
               "description": null,
@@ -1507,7 +1596,8 @@
                     "owner": "DonaldHays",
                     "repo": "rgbds-vscode",
                     "stars": 81
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1522,7 +1612,8 @@
                     "owner": "Imanolea",
                     "repo": "z80asm-vscode",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1537,7 +1628,8 @@
                     "owner": "Leandros",
                     "repo": "dotfiles",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1552,7 +1644,8 @@
                     "owner": "ISSOtm",
                     "repo": "gbz80-highlight",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 },
                 {
                   "node_type": "item",
@@ -1567,7 +1660,8 @@
                     "owner": "japanoise",
                     "repo": "rgbds-mode",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
                 }
               ],
               "description": null,
@@ -1594,7 +1688,8 @@
                 "owner": "mrombout",
                 "repo": "gbdk_playground",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1609,7 +1704,8 @@
                 "owner": "gbdk-salvage",
                 "repo": "grooves-game-boy-programming",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1624,7 +1720,8 @@
                 "owner": "gb-archive",
                 "repo": "salvage",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             }
           ],
           "description": null,
@@ -1652,7 +1749,8 @@
                 "owner": "AntonioND",
                 "repo": "ucity",
                 "stars": 475
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1667,7 +1765,8 @@
                 "owner": "BonsaiDen",
                 "repo": "Tuff.gb",
                 "stars": 311
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1682,7 +1781,8 @@
                 "owner": "dannye",
                 "repo": "pokered-gbc",
                 "stars": 179
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1697,7 +1797,8 @@
                 "owner": "furrtek",
                 "repo": "GB303",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1712,7 +1813,8 @@
                 "owner": "Sanqui",
                 "repo": "2048-gb",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1727,7 +1829,8 @@
                 "owner": "bitnenfer",
                 "repo": "flappy-boy-asm",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1742,7 +1845,8 @@
                 "owner": "ISSOtm",
                 "repo": "Aevilia-GB",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1757,7 +1861,8 @@
                 "owner": "pinobatch",
                 "repo": "libbet",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1772,7 +1877,8 @@
                 "owner": "AntonioND",
                 "repo": "geometrix",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1787,7 +1893,8 @@
                 "owner": "Kartones",
                 "repo": "gameboy",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1802,7 +1909,8 @@
                 "owner": "DonaldHays",
                 "repo": "snake-gb",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1817,7 +1925,8 @@
                 "owner": "dannye",
                 "repo": "waveform-gb",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1832,7 +1941,8 @@
                 "owner": "mholtkamp",
                 "repo": "carazu",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1847,7 +1957,8 @@
                 "owner": "tbsp",
                 "repo": "Adjustris",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1862,7 +1973,8 @@
                 "owner": "huderlem",
                 "repo": "lazerpong",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1877,7 +1989,8 @@
                 "owner": "Sanqui",
                 "repo": "desgb",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1892,7 +2005,8 @@
                 "owner": "lancekindle",
                 "repo": "minesweepGB",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1907,7 +2021,8 @@
                 "owner": "tslanina",
                 "repo": "Retro-GameBoyColor-ToyToy",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1922,7 +2037,8 @@
                 "owner": "JustSid",
                 "repo": "Sushi",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1937,7 +2053,8 @@
                 "owner": "dubvulture",
                 "repo": "gbdev",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1952,7 +2069,8 @@
                 "owner": "l0k1",
                 "repo": "superhappyfunbubbletime",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1967,7 +2085,8 @@
                 "owner": "tslanina",
                 "repo": "Retro-GameBoyColor-StefaN",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1982,7 +2101,8 @@
                 "owner": "tslanina",
                 "repo": "Retro-GameBoyColor-Galaxia",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -1997,7 +2117,8 @@
                 "owner": "gb-archive",
                 "repo": "PlantBoy",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2012,7 +2133,8 @@
                 "owner": "gb-archive",
                 "repo": "exeman",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             }
           ],
           "description": null,
@@ -2034,7 +2156,8 @@
                 "owner": "Zal0",
                 "repo": "ZGB",
                 "stars": 789
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2049,7 +2172,8 @@
                 "owner": "Zal0",
                 "repo": "ZGB",
                 "stars": 789
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2064,7 +2188,8 @@
                 "owner": "Zal0",
                 "repo": "ZGB",
                 "stars": 789
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2079,7 +2204,8 @@
                 "owner": "SimonLarsen",
                 "repo": "tobutobugirl-dx",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2094,7 +2220,8 @@
                 "owner": "gingemonster",
                 "repo": "DinosOfflineAdventure",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2109,7 +2236,8 @@
                 "owner": "flozz",
                 "repo": "evoland.gb",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2124,7 +2252,8 @@
                 "owner": "andreasjhkarlsson",
                 "repo": "gb-mines",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2139,7 +2268,8 @@
                 "owner": "bbbbbr",
                 "repo": "Petris",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2154,7 +2284,8 @@
                 "owner": "brovador",
                 "repo": "GBsnake",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2169,7 +2300,8 @@
                 "owner": "Zal0",
                 "repo": "Super-Princess-2092-Exodus",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2184,7 +2316,8 @@
                 "owner": "elfgames",
                 "repo": "doctorhow",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2199,7 +2332,8 @@
                 "owner": "DonaldHays",
                 "repo": "bubblefactory",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2214,7 +2348,8 @@
                 "owner": "rnegron",
                 "repo": "dino-gb",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2229,7 +2364,8 @@
                 "owner": "gb-archive",
                 "repo": "infinity-gbc",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2244,7 +2380,8 @@
                 "owner": "bitnenfer",
                 "repo": "FlappyBoy",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2259,7 +2396,8 @@
                 "owner": "pashutk",
                 "repo": "flappybird-gameboy",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2274,7 +2412,8 @@
                 "owner": "haroldo-ok",
                 "repo": "really-old-stuff",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2289,7 +2428,8 @@
                 "owner": "kanfor",
                 "repo": "gunsridersgameboy",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2304,7 +2444,8 @@
                 "owner": "avivace",
                 "repo": "quadratino",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2319,7 +2460,8 @@
                 "owner": "potatolain",
                 "repo": "SquishyTheTurtle",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2334,7 +2476,8 @@
                 "owner": "MasterIV",
                 "repo": "PostBot",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2349,7 +2492,8 @@
                 "owner": "Imanolea",
                 "repo": "bitbitjam3_red_hot_princess_carnage",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2364,7 +2508,8 @@
                 "owner": "rubfi",
                 "repo": "gbc-atari-boxing",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2379,7 +2524,8 @@
                 "owner": "dmang-dev",
                 "repo": "totp-gb",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2394,7 +2540,8 @@
                 "owner": "gb-archive",
                 "repo": "fbgb",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             }
           ],
           "description": null,
@@ -2416,7 +2563,8 @@
                 "owner": "LIJI32",
                 "repo": "GBVideoPlayer2",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2431,7 +2579,8 @@
                 "owner": "LIJI32",
                 "repo": "GBVideoPlayer",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2446,7 +2595,8 @@
                 "owner": "mills32",
                 "repo": "CUTE_DEMO",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2461,7 +2611,8 @@
                 "owner": "wtjones",
                 "repo": "matrix-rain-gb",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2476,7 +2627,8 @@
                 "owner": "svendahlstrand",
                 "repo": "10-print-game-boy",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2491,7 +2643,8 @@
                 "owner": "naavis",
                 "repo": "roboto-demo",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2506,7 +2659,8 @@
                 "owner": "AntonioND",
                 "repo": "back-to-color",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2521,7 +2675,8 @@
                 "owner": "vegard",
                 "repo": "beach-gbc",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             }
           ],
           "description": null,
@@ -2547,7 +2702,8 @@
             "owner": "pret",
             "repo": "pokemon-reverse-engineering-tools",
             "stars": 353
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -2562,7 +2718,8 @@
             "owner": "h3nnn4n",
             "repo": "Reverse-Engineering-the-GameBoy-Tetris",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "children": [
@@ -2578,8 +2735,9 @@
                 "last_commit": "2026-08-27T22:16:48Z",
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4895
-              }
+                "stars": 4894
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2590,11 +2748,12 @@
                 "archived": false,
                 "id": 4058868,
                 "language": "Assembly",
-                "last_commit": "2026-08-13T21:57:49Z",
+                "last_commit": "2026-08-28T22:06:49Z",
                 "owner": "pret",
                 "repo": "pokecrystal",
                 "stars": 2494
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2609,7 +2768,8 @@
                 "owner": "zladx",
                 "repo": "LADX-Disassembly",
                 "stars": 897
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2623,8 +2783,9 @@
                 "last_commit": "2026-08-27T22:34:09Z",
                 "owner": "pret",
                 "repo": "pokeyellow",
-                "stars": 868
-              }
+                "stars": 870
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2639,7 +2800,8 @@
                 "owner": "pret",
                 "repo": "pokegold",
                 "stars": 710
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2654,7 +2816,8 @@
                 "owner": "pret",
                 "repo": "pokegold-spaceworld",
                 "stars": 393
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2669,7 +2832,8 @@
                 "owner": "pret",
                 "repo": "poketcg",
                 "stars": 324
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2684,7 +2848,8 @@
                 "owner": "Stewmath",
                 "repo": "oracles-disasm",
                 "stars": 212
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2699,7 +2864,8 @@
                 "owner": "pret",
                 "repo": "pokepinball",
                 "stars": 197
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2714,7 +2880,8 @@
                 "owner": "vinheim3",
                 "repo": "tetris-gb-disasm",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2729,7 +2896,8 @@
                 "owner": "Sanqui",
                 "repo": "hm3",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2744,7 +2912,8 @@
                 "owner": "DevEd2",
                 "repo": "FXHammer-Disasm",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2759,7 +2928,8 @@
                 "owner": "not-chciken",
                 "repo": "jungle-book-gb-disassembly",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             }
           ],
           "description": null,
@@ -2787,7 +2957,8 @@
                 "owner": "mofosyne",
                 "repo": "arduino-gameboy-printer-emulator",
                 "stars": 365
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2802,7 +2973,8 @@
                 "owner": "HerrZatacke",
                 "repo": "wifi-gbp-emulator",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2817,7 +2989,8 @@
                 "owner": "applefreak",
                 "repo": "esp8266-gameboy-printer",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2832,7 +3005,8 @@
                 "owner": "cristofercruz",
                 "repo": "gbp-esp-shield-pcb",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2847,7 +3021,8 @@
                 "owner": "mofosyne",
                 "repo": "GameboyPrinterSniffer",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             }
           ],
           "description": "Game Boy Printer emulation (e.g. to retrieve images from the camera):",
@@ -2869,7 +3044,8 @@
                 "owner": "cristofercruz",
                 "repo": "gb-camera-frames",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             }
           ],
           "description": "Methods to improve and/or manipulate the camera's quality and behavior:",
@@ -2891,7 +3067,8 @@
                 "owner": "Raphael-Boichot",
                 "repo": "GameboyPrinterPaperSimulation",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             },
             {
               "node_type": "item",
@@ -2902,11 +3079,12 @@
                 "archived": false,
                 "id": 262184624,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:34:45Z",
+                "last_commit": "2026-08-29T01:57:17Z",
                 "owner": "HerrZatacke",
                 "repo": "gb-printer-web",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             }
           ],
           "description": null,
@@ -2932,7 +3110,8 @@
             "owner": "zephray",
             "repo": "VerilogBoy",
             "stars": 542
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -2947,7 +3126,8 @@
             "owner": "trash80",
             "repo": "Arduinoboy",
             "stars": 368
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -2962,7 +3142,8 @@
             "owner": "trash80",
             "repo": "mGB",
             "stars": 271
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -2977,7 +3158,8 @@
             "owner": "jkotlinski",
             "repo": "lsdpatch",
             "stars": 216
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -2992,7 +3174,8 @@
             "owner": "mattcurrie",
             "repo": "gb-save-states",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -3007,7 +3190,8 @@
             "owner": "drhelius",
             "repo": "arduinogameboy",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -3022,7 +3206,8 @@
             "owner": "stijnfrishert",
             "repo": "libLSDJ",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -3037,7 +3222,8 @@
             "owner": "insidegadgets",
             "repo": "GBxCart-RW",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -3052,7 +3238,8 @@
             "owner": "Palmr",
             "repo": "gb-link-cable",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -3067,7 +3254,8 @@
             "owner": "trun",
             "repo": "fpgaboy",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -3082,7 +3270,8 @@
             "owner": "furrtek",
             "repo": "GBCameraProjects",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -3097,7 +3286,8 @@
             "owner": "insidegadgets",
             "repo": "GBCartRead",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -3112,7 +3302,8 @@
             "owner": "danShumway",
             "repo": "Piglet",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -3127,7 +3318,8 @@
             "owner": "PumpMagic",
             "repo": "ostrich",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -3142,7 +3334,8 @@
             "owner": "LIJI32",
             "repo": "GBVisualizer",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -3157,7 +3350,8 @@
             "owner": "ekimekim",
             "repo": "gbos",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -3172,7 +3366,8 @@
             "owner": "Tauwasser",
             "repo": "GBCartFlasher",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -3187,7 +3382,8 @@
             "owner": "bitnenfer",
             "repo": "gameboy-brainfuck",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -3202,7 +3398,8 @@
             "owner": "diegovalverde",
             "repo": "papiGB",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -3217,7 +3414,8 @@
             "owner": "jdeblese",
             "repo": "gbcpu",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -3232,7 +3430,8 @@
             "owner": "ChaosCabbage",
             "repo": "crazy-gameboy-video-experiments",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -3247,7 +3446,8 @@
             "owner": "elseyf",
             "repo": "gbfk",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "node_type": "item",
@@ -3262,7 +3462,8 @@
             "owner": "msinger",
             "repo": "sm83-render",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
         },
         {
           "children": [
@@ -3279,7 +3480,8 @@
                 "owner": "gb-archive",
                 "repo": "salvage",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
             }
           ],
           "description": null,
@@ -3291,7 +3493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:51:40.151Z",
+    "last_updated": "2026-08-29T02:27:11.392Z",
     "original_repository_info": {
       "archived": false,
       "id": 52347647,
