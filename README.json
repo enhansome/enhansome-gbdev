@@ -607,7 +607,7 @@
                 "open_issues": 80,
                 "owner": "gbdev",
                 "repo": "rgbds",
-                "stars": 1639,
+                "stars": 1638,
                 "topics": [
                   "asm",
                   "assembly",
@@ -769,22 +769,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Compile Rust code to GBZ80 (Gameboy Z80)",
-                    "homepage": null,
+                    "description": "Write Game Boy games in Rust",
+                    "homepage": "https://zlfn.github.io/rust-gb/gb/index.html",
                     "id": 855346786,
                     "language": "Rust",
-                    "license": null,
-                    "last_commit": "2026-08-28T15:48:21Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-30T19:57:10Z",
                     "open_issues": 0,
                     "owner": "zlfn",
                     "repo": "rust-gb",
-                    "stars": 277,
+                    "stars": 279,
                     "topics": [
                       "8-bit",
-                      "cross-compiler",
+                      "embedded",
                       "game-boy",
+                      "game-development",
                       "gameboy",
                       "gbdk",
+                      "hardware-support",
                       "retro",
                       "rust"
                     ]
@@ -934,10 +936,10 @@
                 "language": "C",
                 "license": "MPL-2.0",
                 "last_commit": "2026-08-27T06:25:15Z",
-                "open_issues": 851,
+                "open_issues": 853,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7330,
+                "stars": 7335,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -971,7 +973,7 @@
                 "open_issues": 164,
                 "owner": "LIJI32",
                 "repo": "SameBoy",
-                "stars": 2180,
+                "stars": 2181,
                 "topics": [
                   "emulator",
                   "gameboy",
@@ -1393,8 +1395,8 @@
                     "id": 37061949,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-07-03T20:53:47Z",
-                    "open_issues": 22,
+                    "last_commit": "2026-08-30T21:12:52Z",
+                    "open_issues": 23,
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
                     "stars": 190,
@@ -4006,7 +4008,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4895,
+                "stars": 4896,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4086,7 +4088,7 @@
                 "open_issues": 4,
                 "owner": "pret",
                 "repo": "pokeyellow",
-                "stars": 871,
+                "stars": 870,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4113,7 +4115,7 @@
                 "open_issues": 4,
                 "owner": "pret",
                 "repo": "pokegold",
-                "stars": 710,
+                "stars": 709,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -4140,7 +4142,7 @@
                 "open_issues": 4,
                 "owner": "pret",
                 "repo": "pokegold-spaceworld",
-                "stars": 393,
+                "stars": 392,
                 "topics": [
                   "demo",
                   "disassembly",
@@ -4514,7 +4516,7 @@
                 "id": 262184624,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T20:04:42Z",
+                "last_commit": "2026-08-30T20:03:45Z",
                 "open_issues": 1,
                 "owner": "HerrZatacke",
                 "repo": "gb-printer-web",
@@ -5093,7 +5095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:56:43.400Z",
+    "last_updated": "2026-08-30T22:05:06.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
@@ -5105,7 +5107,7 @@
       "open_issues": 21,
       "owner": "gbdev",
       "repo": "awesome-gbdev",
-      "stars": 4492,
+      "stars": 4495,
       "topics": [
         "assembler",
         "awesome",
