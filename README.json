@@ -428,7 +428,7 @@
             "open_issues": 21,
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5193,
+            "stars": 5194,
             "topics": [
               "cython",
               "emulator",
@@ -457,7 +457,7 @@
             "open_issues": 6,
             "owner": "robert",
             "repo": "gameboy-doctor",
-            "stars": 284,
+            "stars": 285,
             "topics": [
               "gameboy-emulator"
             ]
@@ -730,7 +730,7 @@
                 "open_issues": 11,
                 "owner": "gbdk-2020",
                 "repo": "gbdk-2020",
-                "stars": 2287,
+                "stars": 2288,
                 "topics": [
                   "gameboy",
                   "gbdk",
@@ -774,11 +774,11 @@
                     "id": 855346786,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-31T19:03:23Z",
+                    "last_commit": "2026-09-01T14:43:20Z",
                     "open_issues": 0,
                     "owner": "zlfn",
                     "repo": "rust-gb",
-                    "stars": 280,
+                    "stars": 288,
                     "topics": [
                       "8-bit",
                       "embedded",
@@ -809,7 +809,7 @@
                     "open_issues": 75,
                     "owner": "ams-hackers",
                     "repo": "gbforth",
-                    "stars": 147,
+                    "stars": 148,
                     "topics": [
                       "dmg",
                       "forth",
@@ -939,7 +939,7 @@
                 "open_issues": 852,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7342,
+                "stars": 7346,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -1026,7 +1026,7 @@
                 "open_issues": 43,
                 "owner": "Gekkio",
                 "repo": "mooneye-gb",
-                "stars": 970,
+                "stars": 971,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -1395,7 +1395,7 @@
                     "id": 37061949,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-08-31T22:34:18Z",
+                    "last_commit": "2026-09-01T10:40:36Z",
                     "open_issues": 21,
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
@@ -4008,7 +4008,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4899,
+                "stars": 4900,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4088,7 +4088,7 @@
                 "open_issues": 5,
                 "owner": "pret",
                 "repo": "pokeyellow",
-                "stars": 870,
+                "stars": 872,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4115,7 +4115,7 @@
                 "open_issues": 4,
                 "owner": "pret",
                 "repo": "pokegold",
-                "stars": 709,
+                "stars": 711,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -4495,7 +4495,7 @@
                 "id": 291389321,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-06-02T11:13:11Z",
+                "last_commit": "2026-09-01T16:13:55Z",
                 "open_issues": 0,
                 "owner": "Raphael-Boichot",
                 "repo": "GameboyPrinterPaperSimulation",
@@ -4713,7 +4713,7 @@
             "open_issues": 4,
             "owner": "insidegadgets",
             "repo": "GBxCart-RW",
-            "stars": 109,
+            "stars": 107,
             "topics": []
           },
           "first_seen": "2026-08-29T02:27:11.392Z"
@@ -5095,7 +5095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T23:24:20.855Z",
+    "last_updated": "2026-09-01T22:02:19.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
