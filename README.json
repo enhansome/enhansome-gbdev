@@ -186,7 +186,7 @@
                 "open_issues": 82,
                 "owner": "shonumi",
                 "repo": "gbe-plus",
-                "stars": 599,
+                "stars": 600,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -428,7 +428,7 @@
             "open_issues": 22,
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5196,
+            "stars": 5195,
             "topics": [
               "cython",
               "emulator",
@@ -604,7 +604,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-07T20:15:07Z",
-                "open_issues": 82,
+                "open_issues": 83,
                 "owner": "gbdev",
                 "repo": "rgbds",
                 "stars": 1643,
@@ -936,10 +936,10 @@
                 "language": "C",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-08T03:07:25Z",
-                "open_issues": 852,
+                "open_issues": 853,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7365,
+                "stars": 7366,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -973,7 +973,7 @@
                 "open_issues": 167,
                 "owner": "LIJI32",
                 "repo": "SameBoy",
-                "stars": 2193,
+                "stars": 2194,
                 "topics": [
                   "emulator",
                   "gameboy",
@@ -1081,7 +1081,7 @@
                 "open_issues": 82,
                 "owner": "shonumi",
                 "repo": "gbe-plus",
-                "stars": 599,
+                "stars": 600,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -1393,10 +1393,10 @@
                     "description": "Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive, Master System, Game Gear, PC Engine and WonderSwan formats.",
                     "homepage": null,
                     "id": 37061949,
-                    "language": "C++",
+                    "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-04T16:07:51Z",
-                    "open_issues": 22,
+                    "last_commit": "2026-09-09T21:34:10Z",
+                    "open_issues": 14,
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
                     "stars": 191,
@@ -1810,7 +1810,7 @@
                     "open_issues": 37,
                     "owner": "SuperDisk",
                     "repo": "hUGETracker",
-                    "stars": 368,
+                    "stars": 369,
                     "topics": [
                       "freepascal",
                       "gameboy",
@@ -2023,7 +2023,7 @@
                 "open_issues": 5,
                 "owner": "gbdev",
                 "repo": "hardware.inc",
-                "stars": 161,
+                "stars": 162,
                 "topics": [
                   "game-boy-development",
                   "hardware",
@@ -4008,7 +4008,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4910,
+                "stars": 4912,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4138,8 +4138,8 @@
                 "id": 135556318,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-09-07T20:30:19Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-08T22:09:06Z",
+                "open_issues": 2,
                 "owner": "pret",
                 "repo": "pokegold-spaceworld",
                 "stars": 393,
@@ -4171,7 +4171,7 @@
                 "open_issues": 7,
                 "owner": "pret",
                 "repo": "poketcg",
-                "stars": 327,
+                "stars": 328,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -5095,7 +5095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T22:01:39.040Z",
+    "last_updated": "2026-09-09T21:57:20.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
@@ -5104,7 +5104,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-07-22T19:03:27Z",
-      "open_issues": 21,
+      "open_issues": 22,
       "owner": "gbdev",
       "repo": "awesome-gbdev",
       "stars": 4499,
