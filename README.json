@@ -428,7 +428,7 @@
             "open_issues": 22,
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5195,
+            "stars": 5197,
             "topics": [
               "cython",
               "emulator",
@@ -603,11 +603,11 @@
                 "id": 304743,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-07T20:15:07Z",
-                "open_issues": 83,
+                "last_commit": "2026-09-10T20:56:31Z",
+                "open_issues": 79,
                 "owner": "gbdev",
                 "repo": "rgbds",
-                "stars": 1643,
+                "stars": 1644,
                 "topics": [
                   "asm",
                   "assembly",
@@ -778,7 +778,7 @@
                     "open_issues": 0,
                     "owner": "zlfn",
                     "repo": "rust-gb",
-                    "stars": 338,
+                    "stars": 339,
                     "topics": [
                       "8-bit",
                       "embedded",
@@ -935,11 +935,11 @@
                 "id": 27788471,
                 "language": "C",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-08T03:07:25Z",
+                "last_commit": "2026-09-10T07:23:17Z",
                 "open_issues": 853,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7366,
+                "stars": 7377,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -973,7 +973,7 @@
                 "open_issues": 167,
                 "owner": "LIJI32",
                 "repo": "SameBoy",
-                "stars": 2194,
+                "stars": 2198,
                 "topics": [
                   "emulator",
                   "gameboy",
@@ -1361,7 +1361,7 @@
                     "open_issues": 26,
                     "owner": "Rangi42",
                     "repo": "tilemap-studio",
-                    "stars": 531,
+                    "stars": 532,
                     "topics": [
                       "c-plus-plus",
                       "fltk",
@@ -1395,8 +1395,8 @@
                     "id": 37061949,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T21:34:10Z",
-                    "open_issues": 14,
+                    "last_commit": "2026-09-10T21:02:45Z",
+                    "open_issues": 5,
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
                     "stars": 191,
@@ -3326,7 +3326,7 @@
                 "id": 256558122,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-06T20:03:57Z",
+                "last_commit": "2026-09-10T20:21:43Z",
                 "open_issues": 0,
                 "owner": "bbbbbr",
                 "repo": "Petris",
@@ -4008,7 +4008,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4912,
+                "stars": 4913,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4035,7 +4035,7 @@
                 "open_issues": 60,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2497,
+                "stars": 2498,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -4138,7 +4138,7 @@
                 "id": 135556318,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-09-08T22:09:06Z",
+                "last_commit": "2026-09-10T19:25:21Z",
                 "open_issues": 2,
                 "owner": "pret",
                 "repo": "pokegold-spaceworld",
@@ -4195,7 +4195,7 @@
                 "language": "Assembly",
                 "license": null,
                 "last_commit": "2026-08-11T03:15:51Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "Stewmath",
                 "repo": "oracles-disasm",
                 "stars": 213,
@@ -4223,7 +4223,7 @@
                 "open_issues": 4,
                 "owner": "pret",
                 "repo": "pokepinball",
-                "stars": 197,
+                "stars": 198,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4699,6 +4699,30 @@
         },
         {
           "node_type": "item",
+          "title": "Game Boy Link Cable Breakout Board",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": ":video_game: Gameboy link cable breakout PCB",
+            "homepage": null,
+            "id": 60913150,
+            "language": null,
+            "license": null,
+            "last_commit": "2022-08-18T09:20:22Z",
+            "open_issues": 0,
+            "owner": "Palmr",
+            "repo": "gb-link-cable",
+            "stars": 107,
+            "topics": [
+              "gameboy",
+              "pcb"
+            ]
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
+        },
+        {
+          "node_type": "item",
           "title": "GBxCart-RW",
           "description": "A device for reading game ROMs, save games and restoring saves for GB, GBC and GBA carts from your PC via USB.",
           "children": [],
@@ -4715,30 +4739,6 @@
             "repo": "GBxCart-RW",
             "stars": 107,
             "topics": []
-          },
-          "first_seen": "2026-08-29T02:27:11.392Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Game Boy Link Cable Breakout Board",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":video_game: Gameboy link cable breakout PCB",
-            "homepage": null,
-            "id": 60913150,
-            "language": null,
-            "license": null,
-            "last_commit": "2022-08-18T09:20:22Z",
-            "open_issues": 0,
-            "owner": "Palmr",
-            "repo": "gb-link-cable",
-            "stars": 106,
-            "topics": [
-              "gameboy",
-              "pcb"
-            ]
           },
           "first_seen": "2026-08-29T02:27:11.392Z"
         },
@@ -5095,7 +5095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T21:57:20.526Z",
+    "last_updated": "2026-09-10T21:53:40.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
@@ -5107,7 +5107,7 @@
       "open_issues": 22,
       "owner": "gbdev",
       "repo": "awesome-gbdev",
-      "stars": 4499,
+      "stars": 4500,
       "topics": [
         "assembler",
         "awesome",
