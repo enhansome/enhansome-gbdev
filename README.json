@@ -424,7 +424,7 @@
             "id": 36501634,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T20:15:30Z",
+            "last_commit": "2026-09-16T17:48:35Z",
             "open_issues": 22,
             "owner": "Baekalfen",
             "repo": "PyBoy",
@@ -603,8 +603,8 @@
                 "id": 304743,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-14T19:53:45Z",
-                "open_issues": 86,
+                "last_commit": "2026-09-16T03:06:27Z",
+                "open_issues": 92,
                 "owner": "gbdev",
                 "repo": "rgbds",
                 "stars": 1647,
@@ -730,7 +730,7 @@
                 "open_issues": 11,
                 "owner": "gbdk-2020",
                 "repo": "gbdk-2020",
-                "stars": 2297,
+                "stars": 2298,
                 "topics": [
                   "gameboy",
                   "gbdk",
@@ -774,7 +774,7 @@
                     "id": 855346786,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-01T14:43:20Z",
+                    "last_commit": "2026-09-16T17:53:14Z",
                     "open_issues": 0,
                     "owner": "zlfn",
                     "repo": "rust-gb",
@@ -936,10 +936,10 @@
                 "language": "C",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-15T00:31:07Z",
-                "open_issues": 853,
+                "open_issues": 854,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7404,
+                "stars": 7409,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -973,7 +973,7 @@
                 "open_issues": 168,
                 "owner": "LIJI32",
                 "repo": "SameBoy",
-                "stars": 2196,
+                "stars": 2199,
                 "topics": [
                   "emulator",
                   "gameboy",
@@ -4008,7 +4008,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4924,
+                "stars": 4926,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4035,7 +4035,7 @@
                 "open_issues": 60,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2500,
+                "stars": 2501,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -4058,8 +4058,8 @@
                 "id": 40512314,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-09-15T08:08:32Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-16T09:27:37Z",
+                "open_issues": 18,
                 "owner": "zladx",
                 "repo": "LADX-Disassembly",
                 "stars": 901,
@@ -4699,6 +4699,27 @@
         },
         {
           "node_type": "item",
+          "title": "GBxCart-RW",
+          "description": "A device for reading game ROMs, save games and restoring saves for GB, GBC and GBA carts from your PC via USB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A device for reading game ROMs, backing up & restoring saves and flashing re-writable flash carts for GB, GBC and GBA carts from your PC via USB. Jump on our Discord server (http://discord.gg/X2wS8eh). License CC-BY-NC-SA",
+            "homepage": "http://shop.insidegadgets.com",
+            "id": 87194602,
+            "language": "C",
+            "license": "NOASSERTION",
+            "last_commit": "2022-12-29T01:39:44Z",
+            "open_issues": 4,
+            "owner": "insidegadgets",
+            "repo": "GBxCart-RW",
+            "stars": 108,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T02:27:11.392Z"
+        },
+        {
+          "node_type": "item",
           "title": "Game Boy Link Cable Breakout Board",
           "description": null,
           "children": [],
@@ -4718,27 +4739,6 @@
               "gameboy",
               "pcb"
             ]
-          },
-          "first_seen": "2026-08-29T02:27:11.392Z"
-        },
-        {
-          "node_type": "item",
-          "title": "GBxCart-RW",
-          "description": "A device for reading game ROMs, save games and restoring saves for GB, GBC and GBA carts from your PC via USB.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A device for reading game ROMs, backing up & restoring saves and flashing re-writable flash carts for GB, GBC and GBA carts from your PC via USB. Jump on our Discord server (http://discord.gg/X2wS8eh). License CC-BY-NC-SA",
-            "homepage": "http://shop.insidegadgets.com",
-            "id": 87194602,
-            "language": "C",
-            "license": "NOASSERTION",
-            "last_commit": "2022-12-29T01:39:44Z",
-            "open_issues": 4,
-            "owner": "insidegadgets",
-            "repo": "GBxCart-RW",
-            "stars": 107,
-            "topics": []
           },
           "first_seen": "2026-08-29T02:27:11.392Z"
         },
@@ -5095,7 +5095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:26:13.583Z",
+    "last_updated": "2026-09-16T22:19:11.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
@@ -5107,7 +5107,7 @@
       "open_issues": 22,
       "owner": "gbdev",
       "repo": "awesome-gbdev",
-      "stars": 4506,
+      "stars": 4508,
       "topics": [
         "assembler",
         "awesome",
