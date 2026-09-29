@@ -428,7 +428,7 @@
             "open_issues": 22,
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5209,
+            "stars": 5211,
             "topics": [
               "cython",
               "emulator",
@@ -603,8 +603,8 @@
                 "id": 304743,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-28T00:49:43Z",
-                "open_issues": 86,
+                "last_commit": "2026-09-29T03:36:02Z",
+                "open_issues": 85,
                 "owner": "gbdev",
                 "repo": "rgbds",
                 "stars": 1655,
@@ -638,7 +638,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-23T20:48:52Z",
-                "open_issues": 29,
+                "open_issues": 28,
                 "owner": "vhelin",
                 "repo": "wla-dx",
                 "stars": 610,
@@ -727,10 +727,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-28T01:37:20Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "gbdk-2020",
                 "repo": "gbdk-2020",
-                "stars": 2300,
+                "stars": 2301,
                 "topics": [
                   "gameboy",
                   "gbdk",
@@ -939,7 +939,7 @@
                 "open_issues": 858,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7450,
+                "stars": 7453,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -1166,7 +1166,7 @@
                     "open_issues": 14,
                     "owner": "mattcurrie",
                     "repo": "mgbdis",
-                    "stars": 325,
+                    "stars": 326,
                     "topics": [
                       "disassembler",
                       "game-boy",
@@ -2020,7 +2020,7 @@
                 "language": "Assembly",
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-11T15:27:09Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "gbdev",
                 "repo": "hardware.inc",
                 "stars": 161,
@@ -2393,7 +2393,7 @@
                     "open_issues": 0,
                     "owner": "Imanolea",
                     "repo": "z80asm-vscode",
-                    "stars": 37,
+                    "stars": 38,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:27:11.392Z"
@@ -3959,7 +3959,7 @@
             "open_issues": 22,
             "owner": "pret",
             "repo": "pokemon-reverse-engineering-tools",
-            "stars": 350,
+            "stars": 351,
             "topics": [
               "disassembly",
               "pokemon",
@@ -4008,7 +4008,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4958,
+                "stars": 4959,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4031,11 +4031,11 @@
                 "id": 4058868,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-09-23T02:02:55Z",
-                "open_issues": 61,
+                "last_commit": "2026-09-29T14:55:56Z",
+                "open_issues": 57,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2508,
+                "stars": 2509,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -4062,7 +4062,7 @@
                 "open_issues": 18,
                 "owner": "zladx",
                 "repo": "LADX-Disassembly",
-                "stars": 900,
+                "stars": 901,
                 "topics": [
                   "gameboy",
                   "hacktoberfest",
@@ -4088,7 +4088,7 @@
                 "open_issues": 3,
                 "owner": "pret",
                 "repo": "pokeyellow",
-                "stars": 880,
+                "stars": 881,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4111,11 +4111,11 @@
                 "id": 38803996,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-09-23T02:03:41Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-29T14:55:54Z",
+                "open_issues": 4,
                 "owner": "pret",
                 "repo": "pokegold",
-                "stars": 716,
+                "stars": 718,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -4142,7 +4142,7 @@
                 "open_issues": 2,
                 "owner": "pret",
                 "repo": "pokegold-spaceworld",
-                "stars": 398,
+                "stars": 399,
                 "topics": [
                   "demo",
                   "disassembly",
@@ -4198,7 +4198,7 @@
                 "open_issues": 2,
                 "owner": "Stewmath",
                 "repo": "oracles-disasm",
-                "stars": 217,
+                "stars": 218,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4499,7 +4499,7 @@
                 "open_issues": 0,
                 "owner": "Raphael-Boichot",
                 "repo": "GameboyPrinterPaperSimulation",
-                "stars": 84,
+                "stars": 85,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -5095,7 +5095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T23:56:07.225Z",
+    "last_updated": "2026-09-29T23:12:02.484Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
