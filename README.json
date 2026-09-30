@@ -424,7 +424,7 @@
             "id": 36501634,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-27T19:56:30Z",
+            "last_commit": "2026-09-30T19:27:58Z",
             "open_issues": 22,
             "owner": "Baekalfen",
             "repo": "PyBoy",
@@ -482,7 +482,7 @@
                 "open_issues": 8,
                 "owner": "pinobatch",
                 "repo": "240p-test-mini",
-                "stars": 291,
+                "stars": 292,
                 "topics": [
                   "gameboy",
                   "nes"
@@ -604,10 +604,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-29T03:36:02Z",
-                "open_issues": 85,
+                "open_issues": 86,
                 "owner": "gbdev",
                 "repo": "rgbds",
-                "stars": 1655,
+                "stars": 1657,
                 "topics": [
                   "asm",
                   "assembly",
@@ -726,11 +726,11 @@
                 "id": 253045857,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T01:37:20Z",
+                "last_commit": "2026-09-30T05:48:20Z",
                 "open_issues": 12,
                 "owner": "gbdk-2020",
                 "repo": "gbdk-2020",
-                "stars": 2301,
+                "stars": 2303,
                 "topics": [
                   "gameboy",
                   "gbdk",
@@ -809,7 +809,7 @@
                     "open_issues": 75,
                     "owner": "ams-hackers",
                     "repo": "gbforth",
-                    "stars": 150,
+                    "stars": 151,
                     "topics": [
                       "dmg",
                       "forth",
@@ -936,10 +936,10 @@
                 "language": "C",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-28T22:36:28Z",
-                "open_issues": 858,
+                "open_issues": 859,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7453,
+                "stars": 7459,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -973,7 +973,7 @@
                 "open_issues": 168,
                 "owner": "LIJI32",
                 "repo": "SameBoy",
-                "stars": 2206,
+                "stars": 2207,
                 "topics": [
                   "emulator",
                   "gameboy",
@@ -1166,7 +1166,7 @@
                     "open_issues": 14,
                     "owner": "mattcurrie",
                     "repo": "mgbdis",
-                    "stars": 326,
+                    "stars": 327,
                     "topics": [
                       "disassembler",
                       "game-boy",
@@ -1361,7 +1361,7 @@
                     "open_issues": 26,
                     "owner": "Rangi42",
                     "repo": "tilemap-studio",
-                    "stars": 534,
+                    "stars": 535,
                     "topics": [
                       "c-plus-plus",
                       "fltk",
@@ -2019,7 +2019,7 @@
                 "id": 111381453,
                 "language": "Assembly",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-11T15:27:09Z",
+                "last_commit": "2026-09-30T18:19:12Z",
                 "open_issues": 5,
                 "owner": "gbdev",
                 "repo": "hardware.inc",
@@ -2820,7 +2820,28 @@
                 "open_issues": 0,
                 "owner": "DonaldHays",
                 "repo": "snake-gb",
-                "stars": 22,
+                "stars": 23,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Carazu",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Gameboy platformer written in assembly",
+                "homepage": null,
+                "id": 63113944,
+                "language": "Assembly",
+                "license": "GPL-3.0",
+                "last_commit": "2019-09-11T21:15:54Z",
+                "open_issues": 1,
+                "owner": "mholtkamp",
+                "repo": "carazu",
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -2842,27 +2863,6 @@
                 "owner": "dannye",
                 "repo": "waveform-gb",
                 "stars": 20,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:27:11.392Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Carazu",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Gameboy platformer written in assembly",
-                "homepage": null,
-                "id": 63113944,
-                "language": "Assembly",
-                "license": "GPL-3.0",
-                "last_commit": "2019-09-11T21:15:54Z",
-                "open_issues": 1,
-                "owner": "mholtkamp",
-                "repo": "carazu",
-                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -3326,7 +3326,7 @@
                 "id": 256558122,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T23:02:26Z",
+                "last_commit": "2026-09-30T08:27:53Z",
                 "open_issues": 0,
                 "owner": "bbbbbr",
                 "repo": "Petris",
@@ -4008,7 +4008,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4959,
+                "stars": 4960,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4035,7 +4035,7 @@
                 "open_issues": 57,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2509,
+                "stars": 2510,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -4594,7 +4594,7 @@
             "open_issues": 15,
             "owner": "trash80",
             "repo": "mGB",
-            "stars": 274,
+            "stars": 275,
             "topics": []
           },
           "first_seen": "2026-08-29T02:27:11.392Z"
@@ -4615,7 +4615,7 @@
             "open_issues": 19,
             "owner": "jkotlinski",
             "repo": "lsdpatch",
-            "stars": 216,
+            "stars": 217,
             "topics": [
               "font",
               "lsdj",
@@ -5095,7 +5095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T23:12:02.484Z",
+    "last_updated": "2026-09-30T23:12:10.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
@@ -5107,7 +5107,7 @@
       "open_issues": 23,
       "owner": "gbdev",
       "repo": "awesome-gbdev",
-      "stars": 4518,
+      "stars": 4519,
       "topics": [
         "assembler",
         "awesome",
