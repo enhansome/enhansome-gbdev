@@ -86,6 +86,40 @@
             },
             {
               "node_type": "item",
+              "title": "dmg-schematics",
+              "description": "Schematics and annotated overlay for the DMG-CPU B chip, extracted from die photos, made with KiCad. Also contains Electric VLSI library with layouts for some of the cells and memories.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Reverse engineered schematics of the Game Boy's DMG-CPU B chip",
+                "homepage": null,
+                "id": 453395661,
+                "language": "KiCad Schematic",
+                "license": "CC-BY-SA-4.0",
+                "last_commit": "2026-09-07T22:44:10Z",
+                "open_issues": 2,
+                "owner": "msinger",
+                "repo": "dmg-schematics",
+                "stars": 51,
+                "topics": [
+                  "asic",
+                  "chip",
+                  "dmg-001",
+                  "dmg-cpu",
+                  "electronics",
+                  "game-boy",
+                  "gameboy",
+                  "kicad-schematics",
+                  "nintendo",
+                  "reverse-engineering",
+                  "schematics",
+                  "sm83"
+                ]
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
+            },
+            {
+              "node_type": "item",
               "title": "ESP8266 GB Printer",
               "description": "A device that emulates the GB Printer and lets you retrieve images using WiFi.",
               "children": [],
@@ -102,40 +136,6 @@
                 "repo": "esp8266-gameboy-printer",
                 "stars": 50,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T02:27:11.392Z"
-            },
-            {
-              "node_type": "item",
-              "title": "dmg-schematics",
-              "description": "Schematics and annotated overlay for the DMG-CPU B chip, extracted from die photos, made with KiCad. Also contains Electric VLSI library with layouts for some of the cells and memories.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Reverse engineered schematics of the Game Boy's DMG-CPU B chip",
-                "homepage": null,
-                "id": 453395661,
-                "language": "KiCad Schematic",
-                "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-09-07T22:44:10Z",
-                "open_issues": 2,
-                "owner": "msinger",
-                "repo": "dmg-schematics",
-                "stars": 50,
-                "topics": [
-                  "asic",
-                  "chip",
-                  "dmg-001",
-                  "dmg-cpu",
-                  "electronics",
-                  "game-boy",
-                  "gameboy",
-                  "kicad-schematics",
-                  "nintendo",
-                  "reverse-engineering",
-                  "schematics",
-                  "sm83"
-                ]
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
             },
@@ -424,8 +424,8 @@
             "id": 36501634,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T19:27:58Z",
-            "open_issues": 22,
+            "last_commit": "2026-10-02T18:58:48Z",
+            "open_issues": 20,
             "owner": "Baekalfen",
             "repo": "PyBoy",
             "stars": 5213,
@@ -603,11 +603,11 @@
                 "id": 304743,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-01T12:33:11Z",
-                "open_issues": 87,
+                "last_commit": "2026-10-02T14:37:19Z",
+                "open_issues": 91,
                 "owner": "gbdev",
                 "repo": "rgbds",
-                "stars": 1658,
+                "stars": 1657,
                 "topics": [
                   "asm",
                   "assembly",
@@ -637,8 +637,8 @@
                 "id": 15962445,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-23T20:48:52Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-02T23:10:40Z",
+                "open_issues": 29,
                 "owner": "vhelin",
                 "repo": "wla-dx",
                 "stars": 610,
@@ -730,7 +730,7 @@
                 "open_issues": 11,
                 "owner": "gbdk-2020",
                 "repo": "gbdk-2020",
-                "stars": 2304,
+                "stars": 2305,
                 "topics": [
                   "gameboy",
                   "gbdk",
@@ -939,7 +939,7 @@
                 "open_issues": 859,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7462,
+                "stars": 7463,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -970,10 +970,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-10T15:37:20Z",
-                "open_issues": 168,
+                "open_issues": 171,
                 "owner": "LIJI32",
                 "repo": "SameBoy",
-                "stars": 2208,
+                "stars": 2210,
                 "topics": [
                   "emulator",
                   "gameboy",
@@ -1399,7 +1399,7 @@
                     "open_issues": 0,
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
-                    "stars": 194,
+                    "stars": 195,
                     "topics": [
                       "console-development",
                       "graphics",
@@ -4008,7 +4008,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4963,
+                "stars": 4965,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4035,7 +4035,7 @@
                 "open_issues": 57,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2512,
+                "stars": 2514,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -4088,7 +4088,7 @@
                 "open_issues": 3,
                 "owner": "pret",
                 "repo": "pokeyellow",
-                "stars": 881,
+                "stars": 882,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4115,7 +4115,7 @@
                 "open_issues": 4,
                 "owner": "pret",
                 "repo": "pokegold",
-                "stars": 718,
+                "stars": 720,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -4194,7 +4194,7 @@
                 "id": 35574209,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-09-14T00:17:13Z",
+                "last_commit": "2026-10-02T01:44:02Z",
                 "open_issues": 2,
                 "owner": "Stewmath",
                 "repo": "oracles-disasm",
@@ -4594,7 +4594,7 @@
             "open_issues": 15,
             "owner": "trash80",
             "repo": "mGB",
-            "stars": 275,
+            "stars": 276,
             "topics": []
           },
           "first_seen": "2026-08-29T02:27:11.392Z"
@@ -4734,7 +4734,7 @@
             "open_issues": 0,
             "owner": "Palmr",
             "repo": "gb-link-cable",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "gameboy",
               "pcb"
@@ -5095,7 +5095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T23:24:57.860Z",
+    "last_updated": "2026-10-02T23:15:28.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
@@ -5104,10 +5104,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-09-27T23:30:37Z",
-      "open_issues": 23,
+      "open_issues": 25,
       "owner": "gbdev",
       "repo": "awesome-gbdev",
-      "stars": 4519,
+      "stars": 4520,
       "topics": [
         "assembler",
         "awesome",
