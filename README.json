@@ -514,7 +514,7 @@
             {
               "node_type": "item",
               "title": "Mealybug Tearoom Tests",
-              "description": null,
+              "description": "mattcurrie/mealybug-tearoom-tests",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -539,7 +539,7 @@
             {
               "node_type": "item",
               "title": "SameSuite",
-              "description": null,
+              "description": "LIJI32/SameSuite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -560,7 +560,7 @@
             {
               "node_type": "item",
               "title": "MBC3 RTC test ROM",
-              "description": null,
+              "description": "aaaaaa123456789/rtc3test",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -604,7 +604,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-02T14:37:19Z",
-                "open_issues": 91,
+                "open_issues": 92,
                 "owner": "gbdev",
                 "repo": "rgbds",
                 "stars": 1657,
@@ -694,7 +694,7 @@
                 {
                   "node_type": "item",
                   "title": "Examples",
-                  "description": null,
+                  "description": "mrombout/gbdk_playground",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -939,7 +939,7 @@
                 "open_issues": 859,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7463,
+                "stars": 7464,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -1445,7 +1445,7 @@
                     "open_issues": 1,
                     "owner": "bbbbbr",
                     "repo": "gimp-tilemap-gb",
-                    "stars": 71,
+                    "stars": 72,
                     "topics": [
                       "game-tools",
                       "gameboy",
@@ -2128,7 +2128,7 @@
                 {
                   "node_type": "item",
                   "title": "Video Timing",
-                  "description": null,
+                  "description": "jdeblese/gbcpu",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2380,7 +2380,7 @@
                 {
                   "node_type": "item",
                   "title": "Z80 Assembly support for Visual Studio Code",
-                  "description": null,
+                  "description": "Imanolea/z80asm-vscode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2482,7 +2482,7 @@
             {
               "node_type": "item",
               "title": "Simplified GBDK examples",
-              "description": null,
+              "description": "mrombout/gbdk_playground",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2564,7 +2564,7 @@
             {
               "node_type": "item",
               "title": "µCity",
-              "description": null,
+              "description": "AntonioND/ucity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2592,7 +2592,7 @@
             {
               "node_type": "item",
               "title": "Tuff",
-              "description": null,
+              "description": "BonsaiDen/Tuff.gb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2663,7 +2663,7 @@
             {
               "node_type": "item",
               "title": "2048-gb",
-              "description": null,
+              "description": "Sanqui/2048-gb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2688,7 +2688,7 @@
             {
               "node_type": "item",
               "title": "Flappy-boy-asm",
-              "description": null,
+              "description": "bitnenfer/flappy-boy-asm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2709,7 +2709,7 @@
             {
               "node_type": "item",
               "title": "Aevilia",
-              "description": null,
+              "description": "ISSOtm/Aevilia-GB",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2735,7 +2735,7 @@
             {
               "node_type": "item",
               "title": "Libbet and the Magic Floor",
-              "description": null,
+              "description": "pinobatch/libbet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2756,7 +2756,7 @@
             {
               "node_type": "item",
               "title": "Geometrix",
-              "description": null,
+              "description": "AntonioND/geometrix",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2807,7 +2807,7 @@
             {
               "node_type": "item",
               "title": "Snake-gb",
-              "description": null,
+              "description": "DonaldHays/snake-gb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2828,7 +2828,7 @@
             {
               "node_type": "item",
               "title": "Carazu",
-              "description": null,
+              "description": "mholtkamp/carazu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2870,7 +2870,7 @@
             {
               "node_type": "item",
               "title": "Adjustris",
-              "description": null,
+              "description": "tbsp/Adjustris",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2891,7 +2891,7 @@
             {
               "node_type": "item",
               "title": "Lazerpong",
-              "description": null,
+              "description": "huderlem/lazerpong",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2936,7 +2936,7 @@
             {
               "node_type": "item",
               "title": "minesweepGB",
-              "description": null,
+              "description": "lancekindle/minesweepGB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2957,7 +2957,7 @@
             {
               "node_type": "item",
               "title": "ToyToy",
-              "description": null,
+              "description": "tslanina/Retro-GameBoyColor-ToyToy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2978,7 +2978,7 @@
             {
               "node_type": "item",
               "title": "superhappyfunbubbletime",
-              "description": null,
+              "description": "l0k1/superhappyfunbubbletime",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2999,7 +2999,7 @@
             {
               "node_type": "item",
               "title": "Sushi",
-              "description": null,
+              "description": "JustSid/Sushi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3068,7 +3068,7 @@
             {
               "node_type": "item",
               "title": "Galaxia",
-              "description": null,
+              "description": "tslanina/Retro-GameBoyColor-Galaxia",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3089,7 +3089,7 @@
             {
               "node_type": "item",
               "title": "PlantBoy",
-              "description": null,
+              "description": "gb-archive/PlantBoy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3110,7 +3110,7 @@
             {
               "node_type": "item",
               "title": "exeman",
-              "description": null,
+              "description": "gb-archive/exeman",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3296,7 +3296,7 @@
             {
               "node_type": "item",
               "title": "gb-mines",
-              "description": null,
+              "description": "andreasjhkarlsson/gb-mines",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3348,7 +3348,7 @@
             {
               "node_type": "item",
               "title": "GBsnake",
-              "description": null,
+              "description": "brovador/GBsnake",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3403,7 +3403,7 @@
             {
               "node_type": "item",
               "title": "Doctor How",
-              "description": null,
+              "description": "elfgames/doctorhow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3502,7 +3502,7 @@
             {
               "node_type": "item",
               "title": "FlappyBoy",
-              "description": null,
+              "description": "bitnenfer/FlappyBoy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3523,7 +3523,7 @@
             {
               "node_type": "item",
               "title": "flappybird-gameboy",
-              "description": null,
+              "description": "pashutk/flappybird-gameboy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3570,7 +3570,7 @@
             {
               "node_type": "item",
               "title": "Guns & Riders",
-              "description": null,
+              "description": "kanfor/gunsridersgameboy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3591,7 +3591,7 @@
             {
               "node_type": "item",
               "title": "Quadratino",
-              "description": null,
+              "description": "avivace/quadratino",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3612,7 +3612,7 @@
             {
               "node_type": "item",
               "title": "Squishy the Turtle",
-              "description": null,
+              "description": "potatolain/SquishyTheTurtle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3633,7 +3633,7 @@
             {
               "node_type": "item",
               "title": "PostBot",
-              "description": null,
+              "description": "MasterIV/PostBot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3654,7 +3654,7 @@
             {
               "node_type": "item",
               "title": "red hot princess carnage",
-              "description": null,
+              "description": "Imanolea/bitbitjam3_red_hot_princess_carnage",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3717,7 +3717,7 @@
             {
               "node_type": "item",
               "title": "fbgb",
-              "description": null,
+              "description": "gb-archive/fbgb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3787,7 +3787,7 @@
             {
               "node_type": "item",
               "title": "CUTE DEMO",
-              "description": null,
+              "description": "mills32/CUTE_DEMO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3833,7 +3833,7 @@
             {
               "node_type": "item",
               "title": "Game Boy",
-              "description": null,
+              "description": "svendahlstrand/10-print-game-boy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3861,7 +3861,7 @@
             {
               "node_type": "item",
               "title": "Roboto Demo",
-              "description": null,
+              "description": "naavis/roboto-demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3888,7 +3888,7 @@
             {
               "node_type": "item",
               "title": "Back to Color",
-              "description": null,
+              "description": "AntonioND/back-to-color",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3914,7 +3914,7 @@
             {
               "node_type": "item",
               "title": "beach-gbc",
-              "description": null,
+              "description": "vegard/beach-gbc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3972,7 +3972,7 @@
         {
           "node_type": "item",
           "title": "Reverse Engineering the GameBoy Tetris",
-          "description": null,
+          "description": "h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3995,7 +3995,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Red/Blue",
-              "description": null,
+              "description": "pret/pokered",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4022,7 +4022,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Crystal",
-              "description": null,
+              "description": "pret/pokecrystal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4049,7 +4049,7 @@
             {
               "node_type": "item",
               "title": "Link's Awakening DX",
-              "description": null,
+              "description": "zladx/LADX-Disassembly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4075,7 +4075,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Yellow",
-              "description": null,
+              "description": "pret/pokeyellow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4102,7 +4102,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Gold and Silver",
-              "description": null,
+              "description": "pret/pokegold",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4158,7 +4158,7 @@
             {
               "node_type": "item",
               "title": "Pokémon TCG",
-              "description": null,
+              "description": "pret/poketcg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4185,7 +4185,7 @@
             {
               "node_type": "item",
               "title": "Oracle of Ages",
-              "description": null,
+              "description": "Stewmath/oracles-disasm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4210,7 +4210,7 @@
             {
               "node_type": "item",
               "title": "Pokémon Pinball",
-              "description": null,
+              "description": "pret/pokepinball",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4258,7 +4258,7 @@
             {
               "node_type": "item",
               "title": "Harvest Moon 3",
-              "description": null,
+              "description": "Sanqui/hm3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4283,7 +4283,7 @@
             {
               "node_type": "item",
               "title": "FX Hammer",
-              "description": null,
+              "description": "DevEd2/FXHammer-Disasm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4308,7 +4308,7 @@
             {
               "node_type": "item",
               "title": "The Jungle Book",
-              "description": null,
+              "description": "not-chciken/jungle-book-gb-disassembly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4721,7 +4721,7 @@
         {
           "node_type": "item",
           "title": "Game Boy Link Cable Breakout Board",
-          "description": null,
+          "description": "Palmr/gb-link-cable",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4911,7 +4911,7 @@
         {
           "node_type": "item",
           "title": "GBCartFlasher firmware",
-          "description": null,
+          "description": "Tauwasser/GBCartFlasher",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5095,7 +5095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:15:28.656Z",
+    "last_updated": "2026-10-03T04:45:44.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
