@@ -428,7 +428,7 @@
             "open_issues": 20,
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5213,
+            "stars": 5214,
             "topics": [
               "cython",
               "emulator",
@@ -457,7 +457,7 @@
             "open_issues": 6,
             "owner": "robert",
             "repo": "gameboy-doctor",
-            "stars": 288,
+            "stars": 289,
             "topics": [
               "gameboy-emulator"
             ]
@@ -482,7 +482,7 @@
                 "open_issues": 8,
                 "owner": "pinobatch",
                 "repo": "240p-test-mini",
-                "stars": 292,
+                "stars": 293,
                 "topics": [
                   "gameboy",
                   "nes"
@@ -603,8 +603,8 @@
                 "id": 304743,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-02T14:37:19Z",
-                "open_issues": 92,
+                "last_commit": "2026-10-03T20:16:59Z",
+                "open_issues": 86,
                 "owner": "gbdev",
                 "repo": "rgbds",
                 "stars": 1657,
@@ -730,7 +730,7 @@
                 "open_issues": 11,
                 "owner": "gbdk-2020",
                 "repo": "gbdk-2020",
-                "stars": 2305,
+                "stars": 2307,
                 "topics": [
                   "gameboy",
                   "gbdk",
@@ -939,7 +939,7 @@
                 "open_issues": 859,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7464,
+                "stars": 7465,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -969,8 +969,8 @@
                 "id": 55260928,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-10T15:37:20Z",
-                "open_issues": 171,
+                "last_commit": "2026-10-03T21:17:21Z",
+                "open_issues": 169,
                 "owner": "LIJI32",
                 "repo": "SameBoy",
                 "stars": 2210,
@@ -1026,7 +1026,7 @@
                 "open_issues": 43,
                 "owner": "Gekkio",
                 "repo": "mooneye-gb",
-                "stars": 970,
+                "stars": 972,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -3326,7 +3326,7 @@
                 "id": 256558122,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T08:27:53Z",
+                "last_commit": "2026-10-03T07:31:23Z",
                 "open_issues": 0,
                 "owner": "bbbbbr",
                 "repo": "Petris",
@@ -4008,7 +4008,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4965,
+                "stars": 4967,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4035,7 +4035,7 @@
                 "open_issues": 57,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2514,
+                "stars": 2513,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -4062,7 +4062,7 @@
                 "open_issues": 18,
                 "owner": "zladx",
                 "repo": "LADX-Disassembly",
-                "stars": 902,
+                "stars": 903,
                 "topics": [
                   "gameboy",
                   "hacktoberfest",
@@ -4088,7 +4088,7 @@
                 "open_issues": 3,
                 "owner": "pret",
                 "repo": "pokeyellow",
-                "stars": 882,
+                "stars": 884,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4637,10 +4637,10 @@
             "language": "Assembly",
             "license": "MIT",
             "last_commit": "2025-02-18T09:07:06Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "mattcurrie",
             "repo": "gb-save-states",
-            "stars": 191,
+            "stars": 192,
             "topics": [
               "assembly-language",
               "game-boy",
@@ -5095,15 +5095,15 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:45:44.645Z",
+    "last_updated": "2026-10-03T22:25:51.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
       "homepage": "https://gbdev.io/resources",
       "id": 52347647,
       "language": null,
-      "license": "NOASSERTION",
-      "last_commit": "2026-09-27T23:30:37Z",
+      "license": "GPL-3.0",
+      "last_commit": "2026-10-03T20:27:22Z",
       "open_issues": 25,
       "owner": "gbdev",
       "repo": "awesome-gbdev",
@@ -5130,7 +5130,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "22ac317a0b8d959aa6fdeec2ccc82ea20a57997d",
+    "original_repository_sha": "f265eef5b2f6135dba0d4880870c6278e7f0b7b0",
     "enhanced_repository": "enhansome/enhansome-gbdev",
     "enhanced_repository_description": null,
     "title": "Awesome Game Boy Development with stars"
