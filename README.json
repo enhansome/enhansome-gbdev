@@ -186,7 +186,7 @@
                 "open_issues": 82,
                 "owner": "shonumi",
                 "repo": "gbe-plus",
-                "stars": 598,
+                "stars": 599,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -424,11 +424,11 @@
             "id": 36501634,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:58:48Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-05T12:32:16Z",
+            "open_issues": 22,
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5215,
+            "stars": 5214,
             "topics": [
               "cython",
               "emulator",
@@ -604,7 +604,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-04T14:23:30Z",
-                "open_issues": 84,
+                "open_issues": 85,
                 "owner": "gbdev",
                 "repo": "rgbds",
                 "stars": 1658,
@@ -658,7 +658,7 @@
                 "id": 24956079,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T19:08:07Z",
+                "last_commit": "2026-10-05T19:06:14Z",
                 "open_issues": 2,
                 "owner": "asmotor",
                 "repo": "asmotor",
@@ -935,7 +935,7 @@
                 "id": 27788471,
                 "language": "C",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-28T22:36:28Z",
+                "last_commit": "2026-10-05T23:11:39Z",
                 "open_issues": 860,
                 "owner": "mgba-emu",
                 "repo": "mgba",
@@ -998,7 +998,7 @@
                 "open_issues": 4,
                 "owner": "aappleby",
                 "repo": "metroboy",
-                "stars": 1173,
+                "stars": 1172,
                 "topics": [
                   "emulator",
                   "gameboy",
@@ -1081,7 +1081,7 @@
                 "open_issues": 82,
                 "owner": "shonumi",
                 "repo": "gbe-plus",
-                "stars": 598,
+                "stars": 599,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -4008,7 +4008,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4967,
+                "stars": 4970,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4062,7 +4062,7 @@
                 "open_issues": 18,
                 "owner": "zladx",
                 "repo": "LADX-Disassembly",
-                "stars": 903,
+                "stars": 904,
                 "topics": [
                   "gameboy",
                   "hacktoberfest",
@@ -4088,7 +4088,7 @@
                 "open_issues": 3,
                 "owner": "pret",
                 "repo": "pokeyellow",
-                "stars": 884,
+                "stars": 885,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4115,7 +4115,7 @@
                 "open_issues": 4,
                 "owner": "pret",
                 "repo": "pokegold",
-                "stars": 720,
+                "stars": 722,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -5095,7 +5095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T22:31:40.995Z",
+    "last_updated": "2026-10-06T00:57:01.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
