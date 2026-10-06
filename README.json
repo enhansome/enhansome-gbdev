@@ -457,7 +457,7 @@
             "open_issues": 6,
             "owner": "robert",
             "repo": "gameboy-doctor",
-            "stars": 289,
+            "stars": 290,
             "topics": [
               "gameboy-emulator"
             ]
@@ -607,7 +607,7 @@
                 "open_issues": 85,
                 "owner": "gbdev",
                 "repo": "rgbds",
-                "stars": 1658,
+                "stars": 1657,
                 "topics": [
                   "asm",
                   "assembly",
@@ -730,7 +730,7 @@
                 "open_issues": 11,
                 "owner": "gbdk-2020",
                 "repo": "gbdk-2020",
-                "stars": 2307,
+                "stars": 2308,
                 "topics": [
                   "gameboy",
                   "gbdk",
@@ -935,11 +935,11 @@
                 "id": 27788471,
                 "language": "C",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-05T23:11:39Z",
+                "last_commit": "2026-10-06T05:12:42Z",
                 "open_issues": 860,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7468,
+                "stars": 7471,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -973,7 +973,7 @@
                 "open_issues": 169,
                 "owner": "LIJI32",
                 "repo": "SameBoy",
-                "stars": 2213,
+                "stars": 2215,
                 "topics": [
                   "emulator",
                   "gameboy",
@@ -998,7 +998,7 @@
                 "open_issues": 4,
                 "owner": "aappleby",
                 "repo": "metroboy",
-                "stars": 1172,
+                "stars": 1171,
                 "topics": [
                   "emulator",
                   "gameboy",
@@ -1026,7 +1026,7 @@
                 "open_issues": 43,
                 "owner": "Gekkio",
                 "repo": "mooneye-gb",
-                "stars": 972,
+                "stars": 971,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -4008,7 +4008,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4970,
+                "stars": 4971,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4035,7 +4035,7 @@
                 "open_issues": 57,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2513,
+                "stars": 2514,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -4115,7 +4115,7 @@
                 "open_issues": 4,
                 "owner": "pret",
                 "repo": "pokegold",
-                "stars": 722,
+                "stars": 723,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -5095,7 +5095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T00:57:01.620Z",
+    "last_updated": "2026-10-06T10:27:23.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
