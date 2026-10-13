@@ -424,8 +424,8 @@
             "id": 36501634,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-11T19:50:12Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-13T19:37:25Z",
+            "open_issues": 20,
             "owner": "Baekalfen",
             "repo": "PyBoy",
             "stars": 5223,
@@ -939,7 +939,7 @@
                 "open_issues": 861,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7493,
+                "stars": 7494,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -969,11 +969,11 @@
                 "id": 55260928,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T22:42:20Z",
-                "open_issues": 165,
+                "last_commit": "2026-10-13T20:56:06Z",
+                "open_issues": 166,
                 "owner": "LIJI32",
                 "repo": "SameBoy",
-                "stars": 2220,
+                "stars": 2222,
                 "topics": [
                   "emulator",
                   "gameboy",
@@ -2023,7 +2023,7 @@
                 "open_issues": 6,
                 "owner": "gbdev",
                 "repo": "hardware.inc",
-                "stars": 162,
+                "stars": 163,
                 "topics": [
                   "game-boy-development",
                   "hardware",
@@ -3326,7 +3326,7 @@
                 "id": 256558122,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T09:37:16Z",
+                "last_commit": "2026-10-13T09:26:06Z",
                 "open_issues": 0,
                 "owner": "bbbbbr",
                 "repo": "Petris",
@@ -3522,6 +3522,27 @@
             },
             {
               "node_type": "item",
+              "title": "totp-gb",
+              "description": "TOTP (RFC 6238) two-factor authenticator with SGB border, GBC palettes and an MBC3 RTC clock.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "TOTP authenticator for Game Boy / Game Boy Color / Super Game Boy",
+                "homepage": null,
+                "id": 1234436692,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-08-18T09:44:20Z",
+                "open_issues": 0,
+                "owner": "dmang-dev",
+                "repo": "totp-gb",
+                "stars": 20,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
+            },
+            {
+              "node_type": "item",
               "title": "flappybird-gameboy",
               "description": "pashutk/flappybird-gameboy",
               "children": [],
@@ -3583,27 +3604,6 @@
                 "open_issues": 1,
                 "owner": "kanfor",
                 "repo": "gunsridersgameboy",
-                "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:27:11.392Z"
-            },
-            {
-              "node_type": "item",
-              "title": "totp-gb",
-              "description": "TOTP (RFC 6238) two-factor authenticator with SGB border, GBC palettes and an MBC3 RTC clock.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "TOTP authenticator for Game Boy / Game Boy Color / Super Game Boy",
-                "homepage": null,
-                "id": 1234436692,
-                "language": "C",
-                "license": "MIT",
-                "last_commit": "2026-08-18T09:44:20Z",
-                "open_issues": 0,
-                "owner": "dmang-dev",
-                "repo": "totp-gb",
                 "stars": 14,
                 "topics": []
               },
@@ -4008,7 +4008,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4981,
+                "stars": 4984,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4035,7 +4035,7 @@
                 "open_issues": 57,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2520,
+                "stars": 2523,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -4062,7 +4062,7 @@
                 "open_issues": 18,
                 "owner": "zladx",
                 "repo": "LADX-Disassembly",
-                "stars": 911,
+                "stars": 912,
                 "topics": [
                   "gameboy",
                   "hacktoberfest",
@@ -4088,7 +4088,7 @@
                 "open_issues": 3,
                 "owner": "pret",
                 "repo": "pokeyellow",
-                "stars": 887,
+                "stars": 888,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4198,7 +4198,7 @@
                 "open_issues": 3,
                 "owner": "Stewmath",
                 "repo": "oracles-disasm",
-                "stars": 219,
+                "stars": 220,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -5095,7 +5095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T01:37:10.621Z",
+    "last_updated": "2026-10-13T23:25:51.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
@@ -5103,11 +5103,11 @@
       "id": 52347647,
       "language": null,
       "license": "GPL-3.0",
-      "last_commit": "2026-10-03T20:27:22Z",
-      "open_issues": 26,
+      "last_commit": "2026-10-13T21:53:58Z",
+      "open_issues": 23,
       "owner": "gbdev",
       "repo": "awesome-gbdev",
-      "stars": 4528,
+      "stars": 4529,
       "topics": [
         "assembler",
         "awesome",
@@ -5130,7 +5130,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "f265eef5b2f6135dba0d4880870c6278e7f0b7b0",
+    "original_repository_sha": "cd122329e108bd2aaacb4d663ebcf180e80f1c91",
     "enhanced_repository": "enhansome/enhansome-gbdev",
     "enhanced_repository_description": null,
     "title": "Awesome Game Boy Development with stars"
