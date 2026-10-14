@@ -424,11 +424,11 @@
             "id": 36501634,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T19:37:25Z",
+            "last_commit": "2026-10-14T15:04:04Z",
             "open_issues": 20,
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5223,
+            "stars": 5225,
             "topics": [
               "cython",
               "emulator",
@@ -482,7 +482,7 @@
                 "open_issues": 8,
                 "owner": "pinobatch",
                 "repo": "240p-test-mini",
-                "stars": 294,
+                "stars": 295,
                 "topics": [
                   "gameboy",
                   "nes"
@@ -603,8 +603,8 @@
                 "id": 304743,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-11T16:56:36Z",
-                "open_issues": 88,
+                "last_commit": "2026-10-14T22:01:13Z",
+                "open_issues": 87,
                 "owner": "gbdev",
                 "repo": "rgbds",
                 "stars": 1659,
@@ -727,7 +727,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-10T09:54:55Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "gbdk-2020",
                 "repo": "gbdk-2020",
                 "stars": 2312,
@@ -939,7 +939,7 @@
                 "open_issues": 861,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7494,
+                "stars": 7498,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -1026,7 +1026,7 @@
                 "open_issues": 43,
                 "owner": "Gekkio",
                 "repo": "mooneye-gb",
-                "stars": 970,
+                "stars": 971,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -1040,7 +1040,7 @@
             {
               "node_type": "item",
               "title": "Binjgb",
-              "description": "5Kloc emulator that passes most of the tests. *Rewind- feature. Runs in the browser using WebAssembly.",
+              "description": "5Kloc emulator that passes most of the tests. Rewind feature. Runs in the browser using WebAssembly.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2410,7 +2410,7 @@
                     "id": 15114057,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-08-25T06:38:24Z",
+                    "last_commit": "2026-10-14T14:36:49Z",
                     "open_issues": 3,
                     "owner": "Leandros",
                     "repo": "dotfiles",
@@ -3429,7 +3429,7 @@
             {
               "node_type": "item",
               "title": "Bubble Factory",
-              "description": "*Vanilla- SDCC (no gbdk).",
+              "description": "Vanilla SDCC (no gbdk).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3501,6 +3501,27 @@
             },
             {
               "node_type": "item",
+              "title": "totp-gb",
+              "description": "TOTP (RFC 6238) two-factor authenticator with SGB border, GBC palettes and an MBC3 RTC clock.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "TOTP authenticator for Game Boy / Game Boy Color / Super Game Boy",
+                "homepage": null,
+                "id": 1234436692,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-08-18T09:44:20Z",
+                "open_issues": 0,
+                "owner": "dmang-dev",
+                "repo": "totp-gb",
+                "stars": 23,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
+            },
+            {
+              "node_type": "item",
               "title": "FlappyBoy",
               "description": "bitnenfer/FlappyBoy",
               "children": [],
@@ -3516,27 +3537,6 @@
                 "owner": "bitnenfer",
                 "repo": "FlappyBoy",
                 "stars": 22,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:27:11.392Z"
-            },
-            {
-              "node_type": "item",
-              "title": "totp-gb",
-              "description": "TOTP (RFC 6238) two-factor authenticator with SGB border, GBC palettes and an MBC3 RTC clock.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "TOTP authenticator for Game Boy / Game Boy Color / Super Game Boy",
-                "homepage": null,
-                "id": 1234436692,
-                "language": "C",
-                "license": "MIT",
-                "last_commit": "2026-08-18T09:44:20Z",
-                "open_issues": 0,
-                "owner": "dmang-dev",
-                "repo": "totp-gb",
-                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -3745,7 +3745,7 @@
             {
               "node_type": "item",
               "title": "GBVideoPlayer2",
-              "description": "The second iteration of the above demo, which increases the resolution, adds stereo- PCM audio, and introduces video compression.",
+              "description": "The second iteration of the above demo, which increases the resolution, adds stereo PCM audio, and introduces video compression.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4008,7 +4008,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4984,
+                "stars": 4987,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4035,7 +4035,7 @@
                 "open_issues": 57,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2523,
+                "stars": 2524,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -4171,7 +4171,7 @@
                 "open_issues": 7,
                 "owner": "pret",
                 "repo": "poketcg",
-                "stars": 329,
+                "stars": 330,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4376,7 +4376,7 @@
                 "open_issues": 1,
                 "owner": "HerrZatacke",
                 "repo": "wifi-gbp-emulator",
-                "stars": 79,
+                "stars": 80,
                 "topics": [
                   "gameboy-camera",
                   "gameboy-printer",
@@ -5095,7 +5095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:25:51.989Z",
+    "last_updated": "2026-10-14T22:37:34.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
@@ -5103,11 +5103,11 @@
       "id": 52347647,
       "language": null,
       "license": "GPL-3.0",
-      "last_commit": "2026-10-13T21:53:58Z",
-      "open_issues": 23,
+      "last_commit": "2026-10-14T18:01:59Z",
+      "open_issues": 24,
       "owner": "gbdev",
       "repo": "awesome-gbdev",
-      "stars": 4529,
+      "stars": 4531,
       "topics": [
         "assembler",
         "awesome",
@@ -5130,7 +5130,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "cd122329e108bd2aaacb4d663ebcf180e80f1c91",
+    "original_repository_sha": "f9bec94fa8992dcd0a0355bdb677fd65cce5b5d0",
     "enhanced_repository": "enhansome/enhansome-gbdev",
     "enhanced_repository_description": null,
     "title": "Awesome Game Boy Development with stars"
