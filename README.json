@@ -120,27 +120,6 @@
             },
             {
               "node_type": "item",
-              "title": "ESP8266 GB Printer",
-              "description": "A device that emulates the GB Printer and lets you retrieve images using WiFi.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A device that emulates the Gameboy Printer and lets you retrieve images using WIFI",
-                "homepage": null,
-                "id": 77030829,
-                "language": "C++",
-                "license": null,
-                "last_commit": "2020-10-12T00:26:25Z",
-                "open_issues": 0,
-                "owner": "applefreak",
-                "repo": "esp8266-gameboy-printer",
-                "stars": 50,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:27:11.392Z"
-            },
-            {
-              "node_type": "item",
               "title": "ESP8266 GB Dev Board",
               "description": "Dev board for Game Boy accessories development, powered by ESP8266.",
               "children": [],
@@ -187,27 +166,6 @@
                 "owner": "shonumi",
                 "repo": "gbe-plus",
                 "stars": 598,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:27:11.392Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Arduino Game Boy Printer Emulator",
-              "description": "Emulating a Game Boy Printer via the Game Boy Link cable with an Arduino.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code to emulate a gameboy printer via the gameboy link cable",
-                "homepage": "https://mofosyne.github.io/arduino-gameboy-printer-emulator/",
-                "id": 87436103,
-                "language": "C++",
-                "license": "GPL-3.0",
-                "last_commit": "2026-05-13T13:41:56Z",
-                "open_issues": 3,
-                "owner": "mofosyne",
-                "repo": "arduino-gameboy-printer-emulator",
-                "stars": 365,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -424,11 +382,11 @@
             "id": 36501634,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T15:04:04Z",
+            "last_commit": "2026-10-15T19:22:33Z",
             "open_issues": 20,
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5225,
+            "stars": 5226,
             "topics": [
               "cython",
               "emulator",
@@ -603,8 +561,8 @@
                 "id": 304743,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-14T22:01:13Z",
-                "open_issues": 87,
+                "last_commit": "2026-10-15T14:57:34Z",
+                "open_issues": 83,
                 "owner": "gbdev",
                 "repo": "rgbds",
                 "stars": 1659,
@@ -641,7 +599,7 @@
                 "open_issues": 28,
                 "owner": "vhelin",
                 "repo": "wla-dx",
-                "stars": 609,
+                "stars": 610,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -726,11 +684,11 @@
                 "id": 253045857,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T09:54:55Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-15T22:36:45Z",
+                "open_issues": 11,
                 "owner": "gbdk-2020",
                 "repo": "gbdk-2020",
-                "stars": 2312,
+                "stars": 2314,
                 "topics": [
                   "gameboy",
                   "gbdk",
@@ -765,7 +723,7 @@
                 {
                   "node_type": "item",
                   "title": "Rust-GB",
-                  "description": "A compiler and library that enable the development of GB ROMs using Rust.",
+                  "description": "A toolchain and SDK that enable the development of GB ROMs using Rust.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -845,7 +803,7 @@
                 {
                   "node_type": "item",
                   "title": "Assembler",
-                  "description": "Assembler written in Swift.",
+                  "description": "written in Swift.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -936,10 +894,10 @@
                 "language": "C",
                 "license": "MPL-2.0",
                 "last_commit": "2026-10-08T05:31:05Z",
-                "open_issues": 861,
+                "open_issues": 864,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7498,
+                "stars": 7501,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -973,7 +931,7 @@
                 "open_issues": 166,
                 "owner": "LIJI32",
                 "repo": "SameBoy",
-                "stars": 2222,
+                "stars": 2225,
                 "topics": [
                   "emulator",
                   "gameboy",
@@ -2019,8 +1977,8 @@
                 "id": 111381453,
                 "language": "Assembly",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-06T17:30:32Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-15T18:33:50Z",
+                "open_issues": 7,
                 "owner": "gbdev",
                 "repo": "hardware.inc",
                 "stars": 163,
@@ -2410,7 +2368,7 @@
                     "id": 15114057,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-10-14T14:36:49Z",
+                    "last_commit": "2026-10-15T14:59:49Z",
                     "open_issues": 3,
                     "owner": "Leandros",
                     "repo": "dotfiles",
@@ -2479,33 +2437,6 @@
         },
         {
           "children": [
-            {
-              "node_type": "item",
-              "title": "Simplified GBDK examples",
-              "description": "mrombout/gbdk_playground",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Simplified GBDK examples",
-                "homepage": null,
-                "id": 68447443,
-                "language": "C",
-                "license": null,
-                "last_commit": "2025-09-30T06:12:30Z",
-                "open_issues": 1,
-                "owner": "mrombout",
-                "repo": "gbdk_playground",
-                "stars": 205,
-                "topics": [
-                  "gameboy",
-                  "gameboy-color",
-                  "gbc",
-                  "gbdk",
-                  "homebrew"
-                ]
-              },
-              "first_seen": "2026-08-29T02:27:11.392Z"
-            },
             {
               "node_type": "item",
               "title": "Grooves Game Boy Programming",
@@ -3326,7 +3257,7 @@
                 "id": 256558122,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T09:26:06Z",
+                "last_commit": "2026-10-15T08:19:45Z",
                 "open_issues": 0,
                 "owner": "bbbbbr",
                 "repo": "Petris",
@@ -3515,7 +3446,7 @@
                 "open_issues": 0,
                 "owner": "dmang-dev",
                 "repo": "totp-gb",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -4008,7 +3939,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4987,
+                "stars": 4991,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4035,7 +3966,7 @@
                 "open_issues": 57,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2524,
+                "stars": 2527,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -4062,7 +3993,7 @@
                 "open_issues": 18,
                 "owner": "zladx",
                 "repo": "LADX-Disassembly",
-                "stars": 912,
+                "stars": 913,
                 "topics": [
                   "gameboy",
                   "hacktoberfest",
@@ -4088,7 +4019,7 @@
                 "open_issues": 3,
                 "owner": "pret",
                 "repo": "pokeyellow",
-                "stars": 888,
+                "stars": 889,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4115,7 +4046,7 @@
                 "open_issues": 4,
                 "owner": "pret",
                 "repo": "pokegold",
-                "stars": 726,
+                "stars": 727,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -4171,7 +4102,7 @@
                 "open_issues": 7,
                 "owner": "pret",
                 "repo": "poketcg",
-                "stars": 330,
+                "stars": 331,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4198,7 +4129,7 @@
                 "open_issues": 3,
                 "owner": "Stewmath",
                 "repo": "oracles-disasm",
-                "stars": 220,
+                "stars": 221,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4223,7 +4154,7 @@
                 "open_issues": 4,
                 "owner": "pret",
                 "repo": "pokepinball",
-                "stars": 200,
+                "stars": 201,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4321,7 +4252,7 @@
                 "open_issues": 0,
                 "owner": "not-chciken",
                 "repo": "jungle-book-gb-disassembly",
-                "stars": 4,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -4388,7 +4319,7 @@
             {
               "node_type": "item",
               "title": "ESP8266 Game Boy Printer",
-              "description": "A device that emulates the Gameboy Printer and lets you retrieve images using WiFi powered by an ESP8266.",
+              "description": "A device that emulates the Game Boy Printer and lets you retrieve images using WiFi, powered by an ESP8266.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4734,7 +4665,7 @@
             "open_issues": 0,
             "owner": "Palmr",
             "repo": "gb-link-cable",
-            "stars": 106,
+            "stars": 107,
             "topics": [
               "gameboy",
               "pcb"
@@ -5095,19 +5026,19 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T22:37:34.161Z",
+    "last_updated": "2026-10-15T22:40:21.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
       "homepage": "https://gbdev.io/resources",
       "id": 52347647,
-      "language": null,
+      "language": "JavaScript",
       "license": "GPL-3.0",
-      "last_commit": "2026-10-14T18:01:59Z",
-      "open_issues": 24,
+      "last_commit": "2026-10-15T18:18:04Z",
+      "open_issues": 22,
       "owner": "gbdev",
       "repo": "awesome-gbdev",
-      "stars": 4531,
+      "stars": 4530,
       "topics": [
         "assembler",
         "awesome",
@@ -5130,7 +5061,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "f9bec94fa8992dcd0a0355bdb677fd65cce5b5d0",
+    "original_repository_sha": "c95534035ba3fa1d8b7c26211105d331f520ad6b",
     "enhanced_repository": "enhansome/enhansome-gbdev",
     "enhanced_repository_description": null,
     "title": "Awesome Game Boy Development with stars"
