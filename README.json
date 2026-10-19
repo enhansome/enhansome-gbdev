@@ -565,7 +565,7 @@
                 "open_issues": 80,
                 "owner": "gbdev",
                 "repo": "rgbds",
-                "stars": 1659,
+                "stars": 1660,
                 "topics": [
                   "asm",
                   "assembly",
@@ -709,8 +709,8 @@
                 "id": 1169083512,
                 "language": "LLVM",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-18T17:18:22Z",
-                "open_issues": 40,
+                "last_commit": "2026-10-19T12:10:00Z",
+                "open_issues": 41,
                 "owner": "llvm-z80",
                 "repo": "llvm-z80",
                 "stars": 62,
@@ -893,11 +893,11 @@
                 "id": 27788471,
                 "language": "C",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-17T20:38:40Z",
-                "open_issues": 865,
+                "last_commit": "2026-10-19T01:59:40Z",
+                "open_issues": 864,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7508,
+                "stars": 7512,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -931,7 +931,7 @@
                 "open_issues": 168,
                 "owner": "LIJI32",
                 "repo": "SameBoy",
-                "stars": 2228,
+                "stars": 2229,
                 "topics": [
                   "emulator",
                   "gameboy",
@@ -956,7 +956,7 @@
                 "open_issues": 4,
                 "owner": "aappleby",
                 "repo": "metroboy",
-                "stars": 1172,
+                "stars": 1173,
                 "topics": [
                   "emulator",
                   "gameboy",
@@ -1357,7 +1357,7 @@
                     "open_issues": 0,
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
-                    "stars": 195,
+                    "stars": 196,
                     "topics": [
                       "console-development",
                       "graphics",
@@ -2324,7 +2324,7 @@
                     "id": 15114057,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-10-18T08:20:14Z",
+                    "last_commit": "2026-10-19T19:38:51Z",
                     "open_issues": 3,
                     "owner": "Leandros",
                     "repo": "dotfiles",
@@ -2409,7 +2409,7 @@
                 "open_issues": 2,
                 "owner": "gb-archive",
                 "repo": "salvage",
-                "stars": 42,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -3072,7 +3072,7 @@
                 "open_issues": 1,
                 "owner": "SimonLarsen",
                 "repo": "tobutobugirl-dx",
-                "stars": 98,
+                "stars": 99,
                 "topics": [
                   "game-boy",
                   "game-boy-color",
@@ -3166,7 +3166,7 @@
                 "id": 256558122,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-18T07:43:37Z",
+                "last_commit": "2026-10-18T22:06:58Z",
                 "open_issues": 0,
                 "owner": "bbbbbr",
                 "repo": "Petris",
@@ -3320,6 +3320,27 @@
             },
             {
               "node_type": "item",
+              "title": "totp-gb",
+              "description": "TOTP (RFC 6238) two-factor authenticator with SGB border, GBC palettes and an MBC3 RTC clock.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "TOTP authenticator for Game Boy / Game Boy Color / Super Game Boy",
+                "homepage": null,
+                "id": 1234436692,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-08-18T09:44:20Z",
+                "open_issues": 0,
+                "owner": "dmang-dev",
+                "repo": "totp-gb",
+                "stars": 27,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T02:27:11.392Z"
+            },
+            {
+              "node_type": "item",
               "title": "Infinity",
               "description": "RPG developed by Affinix Software primarily between the years 1999 and 2001. The game never found a publisher and was eventually canceled. Got recently released with the full source, development tools and workflows.",
               "children": [],
@@ -3335,27 +3356,6 @@
                 "owner": "gb-archive",
                 "repo": "infinity-gbc",
                 "stars": 26,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:27:11.392Z"
-            },
-            {
-              "node_type": "item",
-              "title": "totp-gb",
-              "description": "TOTP (RFC 6238) two-factor authenticator with SGB border, GBC palettes and an MBC3 RTC clock.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "TOTP authenticator for Game Boy / Game Boy Color / Super Game Boy",
-                "homepage": null,
-                "id": 1234436692,
-                "language": "C",
-                "license": "MIT",
-                "last_commit": "2026-08-18T09:44:20Z",
-                "open_issues": 0,
-                "owner": "dmang-dev",
-                "repo": "totp-gb",
-                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -3848,7 +3848,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4999,
+                "stars": 4998,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -3871,11 +3871,11 @@
                 "id": 4058868,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-10-06T17:56:31Z",
-                "open_issues": 59,
+                "last_commit": "2026-10-19T16:38:29Z",
+                "open_issues": 62,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2532,
+                "stars": 2534,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -3902,7 +3902,7 @@
                 "open_issues": 18,
                 "owner": "zladx",
                 "repo": "LADX-Disassembly",
-                "stars": 916,
+                "stars": 917,
                 "topics": [
                   "gameboy",
                   "hacktoberfest",
@@ -3924,8 +3924,8 @@
                 "id": 35382854,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-10-16T18:31:04Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-19T20:47:51Z",
+                "open_issues": 3,
                 "owner": "pret",
                 "repo": "pokeyellow",
                 "stars": 895,
@@ -4392,7 +4392,7 @@
             "open_issues": 5,
             "owner": "zephray",
             "repo": "VerilogBoy",
-            "stars": 548,
+            "stars": 549,
             "topics": []
           },
           "first_seen": "2026-08-29T02:27:11.392Z"
@@ -4434,7 +4434,7 @@
             "open_issues": 15,
             "owner": "trash80",
             "repo": "mGB",
-            "stars": 277,
+            "stars": 278,
             "topics": []
           },
           "first_seen": "2026-08-29T02:27:11.392Z"
@@ -4920,7 +4920,7 @@
                 "open_issues": 2,
                 "owner": "gb-archive",
                 "repo": "salvage",
-                "stars": 42,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -4935,7 +4935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T21:52:56.297Z",
+    "last_updated": "2026-10-19T23:05:30.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
