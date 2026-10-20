@@ -162,10 +162,10 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-01T16:48:27Z",
-                "open_issues": 83,
+                "open_issues": 84,
                 "owner": "shonumi",
                 "repo": "gbe-plus",
-                "stars": 598,
+                "stars": 599,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -382,8 +382,8 @@
             "id": 36501634,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T18:50:50Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-20T19:34:21Z",
+            "open_issues": 20,
             "owner": "Baekalfen",
             "repo": "PyBoy",
             "stars": 5228,
@@ -561,8 +561,8 @@
                 "id": 304743,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-17T20:29:59Z",
-                "open_issues": 80,
+                "last_commit": "2026-10-20T20:16:19Z",
+                "open_issues": 81,
                 "owner": "gbdev",
                 "repo": "rgbds",
                 "stars": 1660,
@@ -599,7 +599,7 @@
                 "open_issues": 28,
                 "owner": "vhelin",
                 "repo": "wla-dx",
-                "stars": 610,
+                "stars": 611,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -709,8 +709,8 @@
                 "id": 1169083512,
                 "language": "LLVM",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T12:10:00Z",
-                "open_issues": 41,
+                "last_commit": "2026-10-20T15:57:59Z",
+                "open_issues": 38,
                 "owner": "llvm-z80",
                 "repo": "llvm-z80",
                 "stars": 62,
@@ -897,7 +897,7 @@
                 "open_issues": 864,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7512,
+                "stars": 7513,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -931,7 +931,7 @@
                 "open_issues": 168,
                 "owner": "LIJI32",
                 "repo": "SameBoy",
-                "stars": 2229,
+                "stars": 2230,
                 "topics": [
                   "emulator",
                   "gameboy",
@@ -956,7 +956,7 @@
                 "open_issues": 4,
                 "owner": "aappleby",
                 "repo": "metroboy",
-                "stars": 1173,
+                "stars": 1174,
                 "topics": [
                   "emulator",
                   "gameboy",
@@ -1036,10 +1036,10 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-01T16:48:27Z",
-                "open_issues": 83,
+                "open_issues": 84,
                 "owner": "shonumi",
                 "repo": "gbe-plus",
-                "stars": 598,
+                "stars": 599,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -1319,7 +1319,7 @@
                     "open_issues": 26,
                     "owner": "Rangi42",
                     "repo": "tilemap-studio",
-                    "stars": 537,
+                    "stars": 538,
                     "topics": [
                       "c-plus-plus",
                       "fltk",
@@ -2324,7 +2324,7 @@
                     "id": 15114057,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-10-19T19:38:51Z",
+                    "last_commit": "2026-10-20T11:12:47Z",
                     "open_issues": 3,
                     "owner": "Leandros",
                     "repo": "dotfiles",
@@ -3848,7 +3848,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 4998,
+                "stars": 4999,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -3875,7 +3875,7 @@
                 "open_issues": 62,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2534,
+                "stars": 2535,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -3924,7 +3924,7 @@
                 "id": 35382854,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-10-19T20:47:51Z",
+                "last_commit": "2026-10-20T16:34:29Z",
                 "open_issues": 3,
                 "owner": "pret",
                 "repo": "pokeyellow",
@@ -3955,7 +3955,7 @@
                 "open_issues": 4,
                 "owner": "pret",
                 "repo": "pokegold",
-                "stars": 729,
+                "stars": 730,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -4935,7 +4935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:05:30.041Z",
+    "last_updated": "2026-10-20T22:39:48.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
