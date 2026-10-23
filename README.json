@@ -238,6 +238,27 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Nekocart",
+                  "description": "Open-source flash cartridge using an Xilinx CPLD as MBC5 (Post).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Open-source Gameboy Flash Cartridge using an Xilinx CPLD as MBC",
+                    "homepage": "https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge",
+                    "id": 76132269,
+                    "language": "Assembly",
+                    "license": null,
+                    "last_commit": "2024-06-06T09:18:20Z",
+                    "open_issues": 5,
+                    "owner": "zephray",
+                    "repo": "NekoCart-GB",
+                    "stars": 140,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:27:11.392Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Homebrew-Gameboy-Cartridge",
                   "description": "Eagle library, schematic, and board files for a cartridge PCB using an Atmel AT49F040 as ROM.",
                   "children": [],
@@ -253,27 +274,6 @@
                     "owner": "dwaq",
                     "repo": "Homebrew-Gameboy-Cartridge",
                     "stars": 139,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T02:27:11.392Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Nekocart",
-                  "description": "Open-source flash cartridge using an Xilinx CPLD as MBC5 (Post).",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Open-source Gameboy Flash Cartridge using an Xilinx CPLD as MBC",
-                    "homepage": "https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge",
-                    "id": 76132269,
-                    "language": "Assembly",
-                    "license": null,
-                    "last_commit": "2024-06-06T09:18:20Z",
-                    "open_issues": 5,
-                    "owner": "zephray",
-                    "repo": "NekoCart-GB",
-                    "stars": 138,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:27:11.392Z"
@@ -386,7 +386,7 @@
             "open_issues": 20,
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5228,
+            "stars": 5229,
             "topics": [
               "cython",
               "emulator",
@@ -616,7 +616,7 @@
                 "id": 24956079,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T20:18:41Z",
+                "last_commit": "2026-10-23T12:34:51Z",
                 "open_issues": 2,
                 "owner": "asmotor",
                 "repo": "asmotor",
@@ -688,7 +688,7 @@
                 "open_issues": 12,
                 "owner": "gbdk-2020",
                 "repo": "gbdk-2020",
-                "stars": 2317,
+                "stars": 2318,
                 "topics": [
                   "gameboy",
                   "gbdk",
@@ -736,7 +736,7 @@
                     "open_issues": 76,
                     "owner": "wiz-lang",
                     "repo": "wiz",
-                    "stars": 440,
+                    "stars": 441,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:27:11.392Z"
@@ -897,7 +897,7 @@
                 "open_issues": 864,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7519,
+                "stars": 7522,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -928,10 +928,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-13T20:56:06Z",
-                "open_issues": 169,
+                "open_issues": 171,
                 "owner": "LIJI32",
                 "repo": "SameBoy",
-                "stars": 2230,
+                "stars": 2232,
                 "topics": [
                   "emulator",
                   "gameboy",
@@ -1796,7 +1796,7 @@
                     "language": "C",
                     "license": "MIT",
                     "last_commit": "2026-10-06T23:00:47Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "AntonioND",
                     "repo": "gbt-player",
                     "stars": 305,
@@ -2324,7 +2324,7 @@
                     "id": 15114057,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-10-22T13:18:24Z",
+                    "last_commit": "2026-10-23T14:29:25Z",
                     "open_issues": 3,
                     "owner": "Leandros",
                     "repo": "dotfiles",
@@ -3072,7 +3072,7 @@
                 "open_issues": 1,
                 "owner": "SimonLarsen",
                 "repo": "tobutobugirl-dx",
-                "stars": 99,
+                "stars": 100,
                 "topics": [
                   "game-boy",
                   "game-boy-color",
@@ -3848,7 +3848,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 5004,
+                "stars": 5007,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -3875,7 +3875,7 @@
                 "open_issues": 59,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2539,
+                "stars": 2540,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -3924,8 +3924,8 @@
                 "id": 35382854,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-10-22T03:42:30Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-23T21:06:40Z",
+                "open_issues": 3,
                 "owner": "pret",
                 "repo": "pokeyellow",
                 "stars": 896,
@@ -3955,7 +3955,7 @@
                 "open_issues": 4,
                 "owner": "pret",
                 "repo": "pokegold",
-                "stars": 731,
+                "stars": 732,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -4935,7 +4935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T22:45:24.795Z",
+    "last_updated": "2026-10-23T22:37:38.761Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
