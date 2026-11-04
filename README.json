@@ -565,7 +565,7 @@
                 "open_issues": 80,
                 "owner": "gbdev",
                 "repo": "rgbds",
-                "stars": 1668,
+                "stars": 1669,
                 "topics": [
                   "asm",
                   "assembly",
@@ -709,7 +709,7 @@
                 "id": 1169083512,
                 "language": "LLVM",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-01T00:26:46Z",
+                "last_commit": "2026-11-03T17:25:08Z",
                 "open_issues": 39,
                 "owner": "llvm-z80",
                 "repo": "llvm-z80",
@@ -893,8 +893,8 @@
                 "id": 27788471,
                 "language": "C",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-03T01:03:03Z",
-                "open_issues": 867,
+                "last_commit": "2026-11-03T22:24:39Z",
+                "open_issues": 868,
                 "owner": "mgba-emu",
                 "repo": "mgba",
                 "stars": 7556,
@@ -928,7 +928,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-02T21:55:19Z",
-                "open_issues": 168,
+                "open_issues": 167,
                 "owner": "LIJI32",
                 "repo": "SameBoy",
                 "stars": 2236,
@@ -1090,7 +1090,7 @@
                     "open_issues": 10,
                     "owner": "Zal0",
                     "repo": "ZGB",
-                    "stars": 793,
+                    "stars": 792,
                     "topics": [
                       "engine",
                       "game-boy",
@@ -2991,7 +2991,7 @@
                 "open_issues": 10,
                 "owner": "Zal0",
                 "repo": "ZGB",
-                "stars": 793,
+                "stars": 792,
                 "topics": [
                   "engine",
                   "game-boy",
@@ -3018,7 +3018,7 @@
                 "open_issues": 10,
                 "owner": "Zal0",
                 "repo": "ZGB",
-                "stars": 793,
+                "stars": 792,
                 "topics": [
                   "engine",
                   "game-boy",
@@ -3045,7 +3045,7 @@
                 "open_issues": 10,
                 "owner": "Zal0",
                 "repo": "ZGB",
-                "stars": 793,
+                "stars": 792,
                 "topics": [
                   "engine",
                   "game-boy",
@@ -3848,7 +3848,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 5016,
+                "stars": 5019,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4413,7 +4413,7 @@
             "open_issues": 8,
             "owner": "trash80",
             "repo": "Arduinoboy",
-            "stars": 374,
+            "stars": 375,
             "topics": []
           },
           "first_seen": "2026-08-29T02:27:11.392Z"
@@ -4935,7 +4935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T01:47:25.997Z",
+    "last_updated": "2026-11-04T00:11:46.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
