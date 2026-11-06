@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "AntonioND",
             "repo": "giibiiadvance",
-            "stars": 209,
+            "stars": 210,
             "topics": [
               "c",
               "gameboy",
@@ -219,7 +219,7 @@
                 "open_issues": 0,
                 "owner": "AntonioND",
                 "repo": "giibiiadvance",
-                "stars": 209,
+                "stars": 210,
                 "topics": [
                   "c",
                   "gameboy",
@@ -386,7 +386,7 @@
             "open_issues": 18,
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5236,
+            "stars": 5235,
             "topics": [
               "cython",
               "emulator",
@@ -595,8 +595,8 @@
                 "id": 15962445,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-01T22:13:22Z",
-                "open_issues": 29,
+                "last_commit": "2026-11-05T03:58:23Z",
+                "open_issues": 28,
                 "owner": "vhelin",
                 "repo": "wla-dx",
                 "stars": 611,
@@ -710,10 +710,10 @@
                 "language": "LLVM",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-04T00:29:28Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "llvm-z80",
                 "repo": "llvm-z80",
-                "stars": 65,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-10-16T22:11:36.091Z"
@@ -757,7 +757,7 @@
                     "open_issues": 0,
                     "owner": "zlfn",
                     "repo": "rust-gb",
-                    "stars": 350,
+                    "stars": 351,
                     "topics": [
                       "8-bit",
                       "embedded",
@@ -893,8 +893,8 @@
                 "id": 27788471,
                 "language": "C",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-03T22:24:39Z",
-                "open_issues": 868,
+                "last_commit": "2026-11-05T05:32:31Z",
+                "open_issues": 869,
                 "owner": "mgba-emu",
                 "repo": "mgba",
                 "stars": 7563,
@@ -931,7 +931,7 @@
                 "open_issues": 168,
                 "owner": "LIJI32",
                 "repo": "SameBoy",
-                "stars": 2237,
+                "stars": 2239,
                 "topics": [
                   "emulator",
                   "gameboy",
@@ -2322,9 +2322,9 @@
                     "description": "My dotfiles",
                     "homepage": null,
                     "id": 15114057,
-                    "language": "Lua",
+                    "language": "Shell",
                     "license": null,
-                    "last_commit": "2026-11-04T21:46:59Z",
+                    "last_commit": "2026-11-05T21:47:57Z",
                     "open_issues": 3,
                     "owner": "Leandros",
                     "repo": "dotfiles",
@@ -2443,7 +2443,7 @@
                 "open_issues": 0,
                 "owner": "AntonioND",
                 "repo": "ucity",
-                "stars": 484,
+                "stars": 485,
                 "topics": [
                   "assembly",
                   "assembly-language",
@@ -3166,7 +3166,7 @@
                 "id": 256558122,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T06:34:41Z",
+                "last_commit": "2026-11-05T10:37:37Z",
                 "open_issues": 0,
                 "owner": "bbbbbr",
                 "repo": "Petris",
@@ -3848,7 +3848,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 5019,
+                "stars": 5020,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -3875,7 +3875,7 @@
                 "open_issues": 59,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2546,
+                "stars": 2547,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -4392,7 +4392,7 @@
             "open_issues": 5,
             "owner": "zephray",
             "repo": "VerilogBoy",
-            "stars": 550,
+            "stars": 551,
             "topics": []
           },
           "first_seen": "2026-08-29T02:27:11.392Z"
@@ -4935,7 +4935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T00:31:20.713Z",
+    "last_updated": "2026-11-06T00:33:08.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
@@ -4947,7 +4947,7 @@
       "open_issues": 13,
       "owner": "gbdev",
       "repo": "awesome-gbdev",
-      "stars": 4542,
+      "stars": 4541,
       "topics": [
         "assembler",
         "awesome",
