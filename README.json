@@ -386,7 +386,7 @@
             "open_issues": 18,
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5234,
+            "stars": 5235,
             "topics": [
               "cython",
               "emulator",
@@ -415,7 +415,7 @@
             "open_issues": 6,
             "owner": "robert",
             "repo": "gameboy-doctor",
-            "stars": 294,
+            "stars": 295,
             "topics": [
               "gameboy-emulator"
             ]
@@ -565,7 +565,7 @@
                 "open_issues": 79,
                 "owner": "gbdev",
                 "repo": "rgbds",
-                "stars": 1672,
+                "stars": 1673,
                 "topics": [
                   "asm",
                   "assembly",
@@ -688,7 +688,7 @@
                 "open_issues": 11,
                 "owner": "gbdk-2020",
                 "repo": "gbdk-2020",
-                "stars": 2322,
+                "stars": 2323,
                 "topics": [
                   "gameboy",
                   "gbdk",
@@ -709,11 +709,11 @@
                 "id": 1169083512,
                 "language": "LLVM",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T00:29:28Z",
+                "last_commit": "2026-11-07T16:58:04Z",
                 "open_issues": 40,
                 "owner": "llvm-z80",
                 "repo": "llvm-z80",
-                "stars": 68,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-10-16T22:11:36.091Z"
@@ -736,7 +736,7 @@
                     "open_issues": 76,
                     "owner": "wiz-lang",
                     "repo": "wiz",
-                    "stars": 441,
+                    "stars": 440,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:27:11.392Z"
@@ -897,7 +897,7 @@
                 "open_issues": 870,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7565,
+                "stars": 7571,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -928,7 +928,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-02T21:55:19Z",
-                "open_issues": 169,
+                "open_issues": 170,
                 "owner": "LIJI32",
                 "repo": "SameBoy",
                 "stars": 2239,
@@ -1090,7 +1090,7 @@
                     "open_issues": 10,
                     "owner": "Zal0",
                     "repo": "ZGB",
-                    "stars": 792,
+                    "stars": 793,
                     "topics": [
                       "engine",
                       "game-boy",
@@ -1357,7 +1357,7 @@
                     "open_issues": 0,
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
-                    "stars": 198,
+                    "stars": 197,
                     "topics": [
                       "console-development",
                       "graphics",
@@ -2050,7 +2050,7 @@
                     "open_issues": 0,
                     "owner": "gb-archive",
                     "repo": "DeadCScroll",
-                    "stars": 30,
+                    "stars": 31,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:27:11.392Z"
@@ -2324,7 +2324,7 @@
                     "id": 15114057,
                     "language": "Shell",
                     "license": null,
-                    "last_commit": "2026-11-06T16:59:09Z",
+                    "last_commit": "2026-11-07T20:52:13Z",
                     "open_issues": 3,
                     "owner": "Leandros",
                     "repo": "dotfiles",
@@ -2991,7 +2991,7 @@
                 "open_issues": 10,
                 "owner": "Zal0",
                 "repo": "ZGB",
-                "stars": 792,
+                "stars": 793,
                 "topics": [
                   "engine",
                   "game-boy",
@@ -3018,7 +3018,7 @@
                 "open_issues": 10,
                 "owner": "Zal0",
                 "repo": "ZGB",
-                "stars": 792,
+                "stars": 793,
                 "topics": [
                   "engine",
                   "game-boy",
@@ -3045,7 +3045,7 @@
                 "open_issues": 10,
                 "owner": "Zal0",
                 "repo": "ZGB",
-                "stars": 792,
+                "stars": 793,
                 "topics": [
                   "engine",
                   "game-boy",
@@ -3227,7 +3227,7 @@
                 "open_issues": 0,
                 "owner": "dmang-dev",
                 "repo": "totp-gb",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -4935,7 +4935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T23:48:58.415Z",
+    "last_updated": "2026-11-07T23:00:08.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
@@ -4947,7 +4947,7 @@
       "open_issues": 13,
       "owner": "gbdev",
       "repo": "awesome-gbdev",
-      "stars": 4543,
+      "stars": 4544,
       "topics": [
         "assembler",
         "awesome",
