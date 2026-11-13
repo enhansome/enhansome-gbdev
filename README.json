@@ -386,7 +386,7 @@
             "open_issues": 18,
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5237,
+            "stars": 5238,
             "topics": [
               "cython",
               "emulator",
@@ -440,7 +440,7 @@
                 "open_issues": 8,
                 "owner": "pinobatch",
                 "repo": "240p-test-mini",
-                "stars": 297,
+                "stars": 298,
                 "topics": [
                   "gameboy",
                   "nes"
@@ -464,7 +464,7 @@
                 "open_issues": 6,
                 "owner": "mattcurrie",
                 "repo": "dmg-acid2",
-                "stars": 245,
+                "stars": 246,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -561,11 +561,11 @@
                 "id": 304743,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-06T23:13:08Z",
-                "open_issues": 79,
+                "last_commit": "2026-11-12T18:33:14Z",
+                "open_issues": 81,
                 "owner": "gbdev",
                 "repo": "rgbds",
-                "stars": 1673,
+                "stars": 1672,
                 "topics": [
                   "asm",
                   "assembly",
@@ -709,11 +709,11 @@
                 "id": 1169083512,
                 "language": "LLVM",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T02:56:54Z",
-                "open_issues": 36,
+                "last_commit": "2026-11-12T20:08:57Z",
+                "open_issues": 33,
                 "owner": "llvm-z80",
                 "repo": "llvm-z80",
-                "stars": 73,
+                "stars": 74,
                 "topics": []
               },
               "first_seen": "2026-10-16T22:11:36.091Z"
@@ -893,11 +893,11 @@
                 "id": 27788471,
                 "language": "C",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-06T03:17:44Z",
-                "open_issues": 870,
+                "last_commit": "2026-11-12T07:59:51Z",
+                "open_issues": 871,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7591,
+                "stars": 7595,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -1319,7 +1319,7 @@
                     "open_issues": 26,
                     "owner": "Rangi42",
                     "repo": "tilemap-studio",
-                    "stars": 541,
+                    "stars": 540,
                     "topics": [
                       "c-plus-plus",
                       "fltk",
@@ -1462,7 +1462,7 @@
                     "open_issues": 1,
                     "owner": "bbbbbr",
                     "repo": "gimp-tilemap-helper",
-                    "stars": 29,
+                    "stars": 30,
                     "topics": [
                       "game-tools",
                       "gimp",
@@ -2324,7 +2324,7 @@
                     "id": 15114057,
                     "language": "Shell",
                     "license": null,
-                    "last_commit": "2026-11-11T16:56:04Z",
+                    "last_commit": "2026-11-12T17:24:49Z",
                     "open_issues": 3,
                     "owner": "Leandros",
                     "repo": "dotfiles",
@@ -2443,7 +2443,7 @@
                 "open_issues": 0,
                 "owner": "AntonioND",
                 "repo": "ucity",
-                "stars": 485,
+                "stars": 486,
                 "topics": [
                   "assembly",
                   "assembly-language",
@@ -2471,7 +2471,7 @@
                 "open_issues": 5,
                 "owner": "BonsaiDen",
                 "repo": "Tuff.gb",
-                "stars": 312,
+                "stars": 313,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -2513,7 +2513,7 @@
                 "open_issues": 3,
                 "owner": "furrtek",
                 "repo": "GB303",
-                "stars": 141,
+                "stars": 142,
                 "topics": [
                   "assembly",
                   "cartridge",
@@ -3844,11 +3844,11 @@
                 "id": 11211886,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-11-11T18:52:30Z",
+                "last_commit": "2026-11-12T19:46:07Z",
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 5026,
+                "stars": 5030,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -3875,7 +3875,7 @@
                 "open_issues": 59,
                 "owner": "pret",
                 "repo": "pokecrystal",
-                "stars": 2548,
+                "stars": 2551,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -3902,7 +3902,7 @@
                 "open_issues": 18,
                 "owner": "zladx",
                 "repo": "LADX-Disassembly",
-                "stars": 920,
+                "stars": 921,
                 "topics": [
                   "gameboy",
                   "hacktoberfest",
@@ -3928,7 +3928,7 @@
                 "open_issues": 2,
                 "owner": "pret",
                 "repo": "pokeyellow",
-                "stars": 903,
+                "stars": 904,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -3955,7 +3955,7 @@
                 "open_issues": 4,
                 "owner": "pret",
                 "repo": "pokegold",
-                "stars": 738,
+                "stars": 742,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -4038,7 +4038,7 @@
                 "open_issues": 4,
                 "owner": "Stewmath",
                 "repo": "oracles-disasm",
-                "stars": 224,
+                "stars": 225,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4063,7 +4063,7 @@
                 "open_issues": 4,
                 "owner": "pret",
                 "repo": "pokepinball",
-                "stars": 206,
+                "stars": 207,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4434,7 +4434,7 @@
             "open_issues": 15,
             "owner": "trash80",
             "repo": "mGB",
-            "stars": 278,
+            "stars": 279,
             "topics": []
           },
           "first_seen": "2026-08-29T02:27:11.392Z"
@@ -4480,7 +4480,7 @@
             "open_issues": 32,
             "owner": "mattcurrie",
             "repo": "gb-save-states",
-            "stars": 194,
+            "stars": 195,
             "topics": [
               "assembly-language",
               "game-boy",
@@ -4532,7 +4532,7 @@
             "open_issues": 14,
             "owner": "stijnfrishert",
             "repo": "libLSDJ",
-            "stars": 113,
+            "stars": 114,
             "topics": []
           },
           "first_seen": "2026-08-29T02:27:11.392Z"
@@ -4935,7 +4935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T01:40:18.690Z",
+    "last_updated": "2026-11-13T00:41:04.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
