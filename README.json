@@ -561,11 +561,11 @@
                 "id": 304743,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-15T03:00:15Z",
-                "open_issues": 79,
+                "last_commit": "2026-11-18T21:24:08Z",
+                "open_issues": 80,
                 "owner": "gbdev",
                 "repo": "rgbds",
-                "stars": 1673,
+                "stars": 1674,
                 "topics": [
                   "asm",
                   "assembly",
@@ -709,11 +709,11 @@
                 "id": 1169083512,
                 "language": "LLVM",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T19:26:33Z",
+                "last_commit": "2026-11-18T02:13:32Z",
                 "open_issues": 34,
                 "owner": "llvm-z80",
                 "repo": "llvm-z80",
-                "stars": 78,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-10-16T22:11:36.091Z"
@@ -893,11 +893,11 @@
                 "id": 27788471,
                 "language": "C",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-16T05:41:11Z",
+                "last_commit": "2026-11-18T10:37:46Z",
                 "open_issues": 871,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7611,
+                "stars": 7612,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -931,7 +931,7 @@
                 "open_issues": 170,
                 "owner": "LIJI32",
                 "repo": "SameBoy",
-                "stars": 2244,
+                "stars": 2245,
                 "topics": [
                   "emulator",
                   "gameboy",
@@ -2324,7 +2324,7 @@
                     "id": 15114057,
                     "language": "Shell",
                     "license": null,
-                    "last_commit": "2026-11-17T20:00:41Z",
+                    "last_commit": "2026-11-18T15:38:13Z",
                     "open_issues": 3,
                     "owner": "Leandros",
                     "repo": "dotfiles",
@@ -3928,7 +3928,7 @@
                 "open_issues": 2,
                 "owner": "pret",
                 "repo": "pokeyellow",
-                "stars": 903,
+                "stars": 904,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -3955,7 +3955,7 @@
                 "open_issues": 4,
                 "owner": "pret",
                 "repo": "pokegold",
-                "stars": 743,
+                "stars": 742,
                 "topics": [
                   "disassembly",
                   "gameboy-color",
@@ -4935,7 +4935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T01:51:45.844Z",
+    "last_updated": "2026-11-19T01:28:49.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
@@ -4947,7 +4947,7 @@
       "open_issues": 11,
       "owner": "gbdev",
       "repo": "awesome-gbdev",
-      "stars": 4555,
+      "stars": 4554,
       "topics": [
         "assembler",
         "awesome",
