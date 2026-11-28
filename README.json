@@ -386,7 +386,7 @@
             "open_issues": 18,
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5242,
+            "stars": 5243,
             "topics": [
               "cython",
               "emulator",
@@ -599,7 +599,7 @@
                 "open_issues": 28,
                 "owner": "vhelin",
                 "repo": "wla-dx",
-                "stars": 612,
+                "stars": 613,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:27:11.392Z"
@@ -688,7 +688,7 @@
                 "open_issues": 11,
                 "owner": "gbdk-2020",
                 "repo": "gbdk-2020",
-                "stars": 2333,
+                "stars": 2336,
                 "topics": [
                   "gameboy",
                   "gbdk",
@@ -710,10 +710,10 @@
                 "language": "LLVM",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-26T03:47:42Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "llvm-z80",
                 "repo": "llvm-z80",
-                "stars": 81,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-10-16T22:11:36.091Z"
@@ -894,10 +894,10 @@
                 "language": "C",
                 "license": "MPL-2.0",
                 "last_commit": "2026-11-25T23:58:07Z",
-                "open_issues": 867,
+                "open_issues": 869,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7640,
+                "stars": 7641,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -2324,7 +2324,7 @@
                     "id": 15114057,
                     "language": "Shell",
                     "license": null,
-                    "last_commit": "2026-11-26T13:43:34Z",
+                    "last_commit": "2026-11-27T14:08:06Z",
                     "open_issues": 3,
                     "owner": "Leandros",
                     "repo": "dotfiles",
@@ -3848,7 +3848,7 @@
                 "open_issues": 22,
                 "owner": "pret",
                 "repo": "pokered",
-                "stars": 5046,
+                "stars": 5048,
                 "topics": [
                   "disassembly",
                   "gameboy",
@@ -4935,7 +4935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T02:24:04.690Z",
+    "last_updated": "2026-11-28T02:10:34.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
